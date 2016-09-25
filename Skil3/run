@@ -1,0 +1,9 @@
+#! /bin/bash
+
+#psql -d "piii" -f CREATE.sql
+#sleep 0.2
+#psql -d "piii" -f FILL.sql
+#sleep 0.8
+psql -d "piii" -f QUERIES.sql
+
+

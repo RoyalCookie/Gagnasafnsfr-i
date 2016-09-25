@@ -1,0 +1,2365 @@
+ id  |          name           | gender | height 
+-----+-------------------------+--------+--------
+   0 | Sunneva Björnsdóttir    | F      |   1.71
+   1 | Björn Geirsson          | M      |   1.71
+   3 | Benedikt Helguson       | M      |   1.88
+   4 | Hulda Evudóttir         | F      |   1.77
+   5 | Björn Jónuson           | M      |   1.73
+   7 | Geir Benediktsson       | M      |   1.89
+   9 | Gunnar Benediktsson     | M      |   1.89
+  10 | Hulda Björgvinsdóttir   | F      |   1.72
+  11 | Kristján Evuson         | M      |   1.84
+  13 | Björgvin Björnsson      | M      |   1.82
+  15 | Rúnar Geirsson          | M      |   1.71
+  17 | Rúnar Rúnarsson         | M      |   1.85
+  19 | Ármann Geirsson         | M      |   1.88
+  21 | Geir Kristjánsson       | M      |   1.73
+  23 | Ármann Ármannsson       | M      |   1.77
+  24 | Hulda Kristjánsdóttir   | F      |   1.71
+  25 | Björn Björnsson         | M      |   1.84
+  26 | Lovísa Benediktsdóttir  | F      |   1.72
+  27 | Friðgeir Gunnarsson     | M      |   1.87
+  29 | Gunnar Benediktsson     | M      |   1.83
+  30 | Gréta Rúnarsdóttir      | F      |   1.73
+  31 | Gunnar Jónsson          | M      |   1.81
+  32 | Lovísa Sunnevudóttir    | F      |   1.73
+  33 | Geir Rúnarsson          | M      |   1.78
+  34 | Sunneva Björgvinsdóttir | F      |   1.72
+  35 | Björn Björnsson         | M      |   1.88
+  36 | Hulda Jónsdóttir        | F      |   1.73
+  37 | Friðgeir Rúnarsson      | M      |   1.74
+  39 | Björn Lovísuson         | M      |   1.85
+  40 | Angela Gunnarsdóttir    | F      |   1.72
+  41 | Jón Ármannsson          | M      |   1.78
+  43 | Rúnar Björgvinsson      | M      |   1.88
+  45 | Kristján Benediktsson   | M      |   1.75
+  47 | Geir Grétuson           | M      |   1.88
+  49 | Björgvin Ármannsson     | M      |   1.72
+  50 | Eva Björgvinsdóttir     | F      |   1.79
+  51 | Björgvin Friðgeirsson   | M      |   1.85
+  52 | Ása Friðgeirsdóttir     | F      |   1.75
+  53 | Geir Kristjánsson       | M      |   1.73
+  54 | Hulda Kristjánsdóttir   | F      |   1.79
+  55 | Jón Kristjánsson        | M      |   1.79
+  57 | Rúnar Kristjánsson      | M      |   1.76
+  58 | Jóna Jónsdóttir         | F      |   1.72
+  59 | Benedikt Benediktsson   | M      |   1.81
+  61 | Kristján Björnsson      | M      |   1.85
+  62 | Ása Geirsdóttir         | F      |   1.76
+  63 | Geir Hulduson           | M      |   1.71
+  65 | Rúnar Benediktsson      | M      |   1.71
+  66 | Sunneva Friðgeirsdóttir | F      |   1.72
+  67 | Björn Angeluson         | M      |   1.84
+  68 | Ása Björgvinsdóttir     | F      |   1.71
+  69 | Björn Friðgeirsson      | M      |   1.71
+  70 | Hulda Geirsdóttir       | F      |   1.72
+  71 | Geir Björnsson          | M      |   1.72
+  72 | Gréta Huldudóttir       | F      |   1.76
+  73 | Björn Rúnarsson         | M      |   1.88
+  74 | Jóna Benediktsdóttir    | F      |   1.78
+  75 | Björn Geirsson          | M      |   1.84
+  76 | Helga Björgvinsdóttir   | F      |   1.73
+  77 | Ármann Rúnarsson        | M      |   1.78
+  78 | Ása Evudóttir           | F      |   1.73
+  79 | Björn Björnsson         | M      |   1.82
+  81 | Friðgeir Friðgeirsson   | M      |   1.75
+  82 | Jóna Benediktsdóttir    | F      |   1.73
+  83 | Friðgeir Gunnarsson     | M      |   1.78
+  85 | Gunnar Jónsson          | M      |   1.87
+  86 | Sunneva Kristjánsdóttir | F      |   1.74
+  87 | Benedikt Ármannsson     | M      |   1.88
+  89 | Ármann Geirsson         | M      |   1.84
+  90 | Angela Friðgeirsdóttir  | F      |   1.79
+  91 | Kristján Benediktsson   | M      |   1.89
+  92 | Gréta Elvudóttir        | F      |   1.76
+  93 | Björn Benediktsson      | M      |   1.84
+  95 | Ármann Rúnarsson        | M      |   1.77
+  97 | Geir Gunnarsson         | M      |   1.83
+  99 | Rúnar Kristjánsson      | M      |   1.71
+ 100 | Hulda Jónsdóttir        | F      |   1.75
+ 101 | Ármann Geirsson         | M      |   1.77
+ 102 | Ása Friðgeirsdóttir     | F      |   1.77
+ 103 | Friðgeir Friðgeirsson   | M      |   1.89
+ 104 | Elva Benediktsdóttir    | F      |   1.78
+ 105 | Rúnar Björnsson         | M      |   1.71
+ 107 | Geir Hulduson           | M      |   1.87
+ 109 | Kristján Geirsson       | M      |   1.75
+ 111 | Geir Jónsson            | M      |   1.85
+ 112 | Sunneva Friðgeirsdóttir | F      |   1.73
+ 113 | Björgvin Jónsson        | M      |   1.86
+ 114 | Sunneva Helgudóttir     | F      |   1.77
+ 115 | Björgvin Rúnarsson      | M      |   1.73
+ 116 | Jóna Geirsdóttir        | F      |   1.71
+ 117 | Jón Rúnarsson           | M      |   1.75
+ 118 | Gréta Jónsdóttir        | F      |   1.73
+ 119 | Friðgeir Sunnevuson     | M      |   1.73
+ 121 | Kristján Gunnarsson     | M      |   1.81
+ 122 | Angela Rúnarsdóttir     | F      |   1.71
+ 123 | Gunnar Kristjánsson     | M      |   1.78
+ 125 | Gunnar Hulduson         | M      |    1.8
+ 127 | Gunnar Ármannsson       | M      |   1.85
+ 129 | Kristján Ármannsson     | M      |   1.89
+ 130 | Angela Elvudóttir       | F      |   1.77
+ 131 | Ármann Gunnarsson       | M      |   1.88
+ 132 | Hulda Björnsdóttir      | F      |   1.74
+ 133 | Björgvin Geirsson       | M      |   1.82
+ 134 | Lovísa Benediktsdóttir  | F      |   1.73
+ 135 | Rúnar Sunnevuson        | M      |   1.75
+ 136 | Lovísa Gunnarsdóttir    | F      |   1.74
+ 137 | Geir Friðgeirsson       | M      |   1.86
+ 138 | Hulda Friðgeirsdóttir   | F      |   1.74
+ 139 | Geir Jónsson            | M      |   1.75
+ 140 | Ása Geirsdóttir         | F      |   1.75
+ 141 | Benedikt Jónsson        | M      |   1.71
+ 142 | Hulda Kristjánsdóttir   | F      |   1.77
+ 143 | Geir Björgvinsson       | M      |   1.81
+ 145 | Björn Björnsson         | M      |   1.77
+ 147 | Björgvin Friðgeirsson   | M      |   1.75
+ 148 | Jóna Sunnevudóttir      | F      |   1.79
+ 149 | Jón Geirsson            | M      |   1.82
+ 150 | Gréta Kristjánsdóttir   | F      |   1.79
+ 151 | Kristján Björnsson      | M      |   1.87
+ 153 | Jón Sunnevuson          | M      |   1.78
+ 155 | Gunnar Friðgeirsson     | M      |   1.73
+ 156 | Elva Friðgeirsdóttir    | F      |   1.77
+ 157 | Geir Ármannsson         | M      |   1.81
+ 159 | Björn Ármannsson        | M      |   1.86
+ 163 | Björn Rúnarsson         | M      |   1.81
+ 165 | Björn Kristjánsson      | M      |    1.8
+ 167 | Jón Grétuson            | M      |   1.89
+ 168 | Angela Geirsdóttir      | F      |   1.76
+ 169 | Friðgeir Geirsson       | M      |   1.88
+ 170 | Ása Geirsdóttir         | F      |   1.71
+ 171 | Kristján Jónsson        | M      |   1.89
+ 173 | Geir Friðgeirsson       | M      |   1.83
+ 175 | Jón Kristjánsson        | M      |   1.86
+ 176 | Jóna Friðgeirsdóttir    | F      |   1.76
+ 177 | Benedikt Benediktsson   | M      |   1.89
+ 178 | Elva Gunnarsdóttir      | F      |   1.79
+ 179 | Geir Friðgeirsson       | M      |   1.73
+ 180 | Sunneva Jónudóttir      | F      |   1.77
+ 181 | Gunnar Rúnarsson        | M      |   1.76
+ 183 | Björgvin Björgvinsson   | M      |   1.75
+ 185 | Benedikt Rúnarsson      | M      |   1.89
+ 186 | Angela Gunnarsdóttir    | F      |   1.73
+ 187 | Geir Geirsson           | M      |   1.74
+ 188 | Eva Ásudóttir           | F      |   1.76
+ 189 | Kristján Rúnarsson      | M      |    1.8
+ 191 | Björgvin Friðgeirsson   | M      |   1.81
+ 193 | Benedikt Benediktsson   | M      |   1.72
+ 194 | Hulda Geirsdóttir       | F      |   1.79
+ 195 | Gunnar Björnsson        | M      |   1.77
+ 196 | Hulda Benediktsdóttir   | F      |   1.75
+ 197 | Friðgeir Benediktsson   | M      |   1.85
+ 198 | Ása Benediktsdóttir     | F      |   1.78
+ 199 | Ármann Gunnarsson       | M      |   1.86
+(153 rows)
+
+ id  |          name           | gender | height 
+-----+-------------------------+--------+--------
+ 120 | Sunneva Björnsdóttir    | F      |   1.61
+ 181 | Gunnar Rúnarsson        | M      |   1.76
+ 168 | Angela Geirsdóttir      | F      |   1.76
+ 169 | Friðgeir Geirsson       | M      |   1.88
+ 197 | Friðgeir Benediktsson   | M      |   1.85
+  32 | Lovísa Sunnevudóttir    | F      |   1.73
+ 195 | Gunnar Björnsson        | M      |   1.77
+  14 | Ása Evudóttir           | F      |   1.65
+  33 | Geir Rúnarsson          | M      |   1.78
+ 164 | Lovísa Kristjánsdóttir  | F      |   1.66
+ 138 | Hulda Friðgeirsdóttir   | F      |   1.74
+ 124 | Hulda Elvudóttir        | F      |   1.61
+  93 | Björn Benediktsson      | M      |   1.84
+ 166 | Hulda Geirsdóttir       | F      |   1.62
+ 122 | Angela Rúnarsdóttir     | F      |   1.71
+ 173 | Geir Friðgeirsson       | M      |   1.83
+  45 | Kristján Benediktsson   | M      |   1.75
+  50 | Eva Björgvinsdóttir     | F      |   1.79
+ 196 | Hulda Benediktsdóttir   | F      |   1.75
+  85 | Gunnar Jónsson          | M      |   1.87
+  91 | Kristján Benediktsson   | M      |   1.89
+ 190 | Lovísa Kristjánsdóttir  | F      |   1.66
+ 154 | Gréta Elvudóttir        | F      |   1.61
+ 180 | Sunneva Jónudóttir      | F      |   1.77
+  23 | Ármann Ármannsson       | M      |   1.77
+  44 | Sunneva Benediktsdóttir | F      |   1.66
+  83 | Friðgeir Gunnarsson     | M      |   1.78
+   1 | Björn Geirsson          | M      |   1.71
+  16 | Ása Jónsdóttir          | F      |    1.7
+  51 | Björgvin Friðgeirsson   | M      |   1.85
+  58 | Jóna Jónsdóttir         | F      |   1.72
+  74 | Jóna Benediktsdóttir    | F      |   1.78
+  95 | Ármann Rúnarsson        | M      |   1.77
+ 143 | Geir Björgvinsson       | M      |   1.81
+ 178 | Elva Gunnarsdóttir      | F      |   1.79
+  54 | Hulda Kristjánsdóttir   | F      |   1.79
+  94 | Gréta Kristjánsdóttir   | F      |   1.67
+   3 | Benedikt Helguson       | M      |   1.88
+ 126 | Ása Kristjánsdóttir     | F      |   1.64
+  72 | Gréta Huldudóttir       | F      |   1.76
+  86 | Sunneva Kristjánsdóttir | F      |   1.74
+ 177 | Benedikt Benediktsson   | M      |   1.89
+  63 | Geir Hulduson           | M      |   1.71
+ 127 | Gunnar Ármannsson       | M      |   1.85
+  38 | Elva Gunnarsdóttir      | F      |   1.64
+ 179 | Geir Friðgeirsson       | M      |   1.73
+ 109 | Kristján Geirsson       | M      |   1.75
+ 108 | Ása Rúnarsdóttir        | F      |   1.63
+ 172 | Hulda Benediktsdóttir   | F      |   1.64
+ 119 | Friðgeir Sunnevuson     | M      |   1.73
+  48 | Gréta Kristjánsdóttir   | F      |   1.62
+ 184 | Elva Friðgeirsdóttir    | F      |    1.7
+  20 | Angela Friðgeirsdóttir  | F      |   1.68
+  64 | Gréta Friðgeirsdóttir   | F      |   1.64
+ 142 | Hulda Kristjánsdóttir   | F      |   1.77
+ 152 | Eva Benediktsdóttir     | F      |   1.66
+ 150 | Gréta Kristjánsdóttir   | F      |   1.79
+  61 | Kristján Björnsson      | M      |   1.85
+ 161 | Geir Gunnarsson         | M      |    1.7
+ 189 | Kristján Rúnarsson      | M      |    1.8
+ 193 | Benedikt Benediktsson   | M      |   1.72
+  31 | Gunnar Jónsson          | M      |   1.81
+   0 | Sunneva Björnsdóttir    | F      |   1.71
+ 167 | Jón Grétuson            | M      |   1.89
+  88 | Eva Geirsdóttir         | F      |   1.61
+ 110 | Sunneva Geirsdóttir     | F      |   1.66
+ 125 | Gunnar Hulduson         | M      |    1.8
+ 162 | Elva Gunnarsdóttir      | F      |   1.69
+  90 | Angela Friðgeirsdóttir  | F      |   1.79
+ 191 | Björgvin Friðgeirsson   | M      |   1.81
+ 123 | Gunnar Kristjánsson     | M      |   1.78
+ 171 | Kristján Jónsson        | M      |   1.89
+  19 | Ármann Geirsson         | M      |   1.88
+ 111 | Geir Jónsson            | M      |   1.85
+ 129 | Kristján Ármannsson     | M      |   1.89
+ 141 | Benedikt Jónsson        | M      |   1.71
+ 165 | Björn Kristjánsson      | M      |    1.8
+  28 | Jóna Björgvinsdóttir    | F      |   1.65
+ 105 | Rúnar Björnsson         | M      |   1.71
+ 112 | Sunneva Friðgeirsdóttir | F      |   1.73
+  89 | Ármann Geirsson         | M      |   1.84
+ 146 | Sunneva Björnsdóttir    | F      |    1.7
+   8 | Helga Björnsdóttir      | F      |   1.63
+ 153 | Jón Sunnevuson          | M      |   1.78
+ 135 | Rúnar Sunnevuson        | M      |   1.75
+   6 | Angela Björgvinsdóttir  | F      |   1.64
+  82 | Jóna Benediktsdóttir    | F      |   1.73
+ 121 | Kristján Gunnarsson     | M      |   1.81
+ 144 | Jóna Rúnarsdóttir       | F      |   1.68
+  37 | Friðgeir Rúnarsson      | M      |   1.74
+ 158 | Sunneva Jónsdóttir      | F      |   1.61
+ 136 | Lovísa Gunnarsdóttir    | F      |   1.74
+ 100 | Hulda Jónsdóttir        | F      |   1.75
+ 188 | Eva Ásudóttir           | F      |   1.76
+  43 | Rúnar Björgvinsson      | M      |   1.88
+  77 | Ármann Rúnarsson        | M      |   1.78
+  13 | Björgvin Björnsson      | M      |   1.82
+  36 | Hulda Jónsdóttir        | F      |   1.73
+ 194 | Hulda Geirsdóttir       | F      |   1.79
+  15 | Rúnar Geirsson          | M      |   1.71
+   2 | Lovísa Helgudóttir      | F      |   1.64
+  30 | Gréta Rúnarsdóttir      | F      |   1.73
+  55 | Jón Kristjánsson        | M      |   1.79
+  81 | Friðgeir Friðgeirsson   | M      |   1.75
+  98 | Sunneva Gunnarsdóttir   | F      |   1.63
+  42 | Jóna Benediktsdóttir    | F      |   1.62
+   4 | Hulda Evudóttir         | F      |   1.77
+  68 | Ása Björgvinsdóttir     | F      |   1.71
+  34 | Sunneva Björgvinsdóttir | F      |   1.72
+  25 | Björn Björnsson         | M      |   1.84
+ 132 | Hulda Björnsdóttir      | F      |   1.74
+  40 | Angela Gunnarsdóttir    | F      |   1.72
+ 101 | Ármann Geirsson         | M      |   1.77
+  41 | Jón Ármannsson          | M      |   1.78
+ 182 | Lovísa Evudóttir        | F      |    1.6
+ 185 | Benedikt Rúnarsson      | M      |   1.89
+  79 | Björn Björnsson         | M      |   1.82
+  24 | Hulda Kristjánsdóttir   | F      |   1.71
+ 117 | Jón Rúnarsson           | M      |   1.75
+  18 | Eva Gunnarsdóttir       | F      |   1.61
+  92 | Gréta Elvudóttir        | F      |   1.76
+ 115 | Björgvin Rúnarsson      | M      |   1.73
+  27 | Friðgeir Gunnarsson     | M      |   1.87
+  35 | Björn Björnsson         | M      |   1.88
+ 163 | Björn Rúnarsson         | M      |   1.81
+ 183 | Björgvin Björgvinsson   | M      |   1.75
+  17 | Rúnar Rúnarsson         | M      |   1.85
+ 147 | Björgvin Friðgeirsson   | M      |   1.75
+  29 | Gunnar Benediktsson     | M      |   1.83
+   9 | Gunnar Benediktsson     | M      |   1.89
+  73 | Björn Rúnarsson         | M      |   1.88
+  97 | Geir Gunnarsson         | M      |   1.83
+ 151 | Kristján Björnsson      | M      |   1.87
+ 130 | Angela Elvudóttir       | F      |   1.77
+  39 | Björn Lovísuson         | M      |   1.85
+ 106 | Lovísa Kristjánsdóttir  | F      |   1.62
+  59 | Benedikt Benediktsson   | M      |   1.81
+  66 | Sunneva Friðgeirsdóttir | F      |   1.72
+  22 | Jóna Björnsdóttir       | F      |   1.69
+ 102 | Ása Friðgeirsdóttir     | F      |   1.77
+   7 | Geir Benediktsson       | M      |   1.89
+  67 | Björn Angeluson         | M      |   1.84
+  60 | Elva Kristjánsdóttir    | F      |   1.64
+ 198 | Ása Benediktsdóttir     | F      |   1.78
+  12 | Elva Rúnarsdóttir       | F      |   1.67
+ 104 | Elva Benediktsdóttir    | F      |   1.78
+  71 | Geir Björnsson          | M      |   1.72
+  46 | Helga Ármannsdóttir     | F      |   1.61
+   5 | Björn Jónuson           | M      |   1.73
+  80 | Gréta Rúnarsdóttir      | F      |   1.63
+  76 | Helga Björgvinsdóttir   | F      |   1.73
+ 128 | Jóna Angeludóttir       | F      |   1.69
+  75 | Björn Geirsson          | M      |   1.84
+  26 | Lovísa Benediktsdóttir  | F      |   1.72
+ 137 | Geir Friðgeirsson       | M      |   1.86
+  87 | Benedikt Ármannsson     | M      |   1.88
+ 175 | Jón Kristjánsson        | M      |   1.86
+ 192 | Lovísa Geirsdóttir      | F      |   1.66
+ 114 | Sunneva Helgudóttir     | F      |   1.77
+ 148 | Jóna Sunnevudóttir      | F      |   1.79
+  52 | Ása Friðgeirsdóttir     | F      |   1.75
+  78 | Ása Evudóttir           | F      |   1.73
+ 140 | Ása Geirsdóttir         | F      |   1.75
+ 187 | Geir Geirsson           | M      |   1.74
+ 103 | Friðgeir Friðgeirsson   | M      |   1.89
+ 149 | Jón Geirsson            | M      |   1.82
+  57 | Rúnar Kristjánsson      | M      |   1.76
+ 145 | Björn Björnsson         | M      |   1.77
+ 118 | Gréta Jónsdóttir        | F      |   1.73
+ 156 | Elva Friðgeirsdóttir    | F      |   1.77
+  99 | Rúnar Kristjánsson      | M      |   1.71
+  65 | Rúnar Benediktsson      | M      |   1.71
+  47 | Geir Grétuson           | M      |   1.88
+  70 | Hulda Geirsdóttir       | F      |   1.72
+ 113 | Björgvin Jónsson        | M      |   1.86
+  53 | Geir Kristjánsson       | M      |   1.73
+ 170 | Ása Geirsdóttir         | F      |   1.71
+ 176 | Jóna Friðgeirsdóttir    | F      |   1.76
+ 160 | Sunneva Ármannsdóttir   | F      |   1.65
+ 157 | Geir Ármannsson         | M      |   1.81
+  21 | Geir Kristjánsson       | M      |   1.73
+ 133 | Björgvin Geirsson       | M      |   1.82
+ 139 | Geir Jónsson            | M      |   1.75
+ 199 | Ármann Gunnarsson       | M      |   1.86
+  62 | Ása Geirsdóttir         | F      |   1.76
+  11 | Kristján Evuson         | M      |   1.84
+  10 | Hulda Björgvinsdóttir   | F      |   1.72
+  69 | Björn Friðgeirsson      | M      |   1.71
+ 116 | Jóna Geirsdóttir        | F      |   1.71
+ 131 | Ármann Gunnarsson       | M      |   1.88
+  56 | Lovísa Benediktsdóttir  | F      |   1.69
+ 107 | Geir Hulduson           | M      |   1.87
+  49 | Björgvin Ármannsson     | M      |   1.72
+ 134 | Lovísa Benediktsdóttir  | F      |   1.73
+ 159 | Björn Ármannsson        | M      |   1.86
+ 186 | Angela Gunnarsdóttir    | F      |   1.73
+  96 | Helga Friðgeirsdóttir   | F      |    1.6
+ 174 | Helga Björnsdóttir      | F      |    1.6
+ 155 | Gunnar Friðgeirsson     | M      |   1.73
+  84 | Helga Elvudóttir        | F      |   1.68
+(200 rows)
+
+          name           | description | height | result |    name     
+-------------------------+-------------+--------+--------+-------------
+ Ása Evudóttir           | Female      |   1.73 |   6.78 | Long Jump
+ Björn Björnsson         | Male        |   1.84 |   6.78 | Long Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |   1.43 | High Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |  10.35 | Triple Jump
+ Björgvin Geirsson       | Male        |   1.82 |   8.33 | 100 m dash
+ Benedikt Ármannsson     | Male        |   1.88 |  12.41 | Triple Jump
+ Björn Ármannsson        | Male        |   1.86 |   4.08 | Long Jump
+ Geir Gunnarsson         | Male        |   1.83 |   1.31 | High Jump
+ Gunnar Jónsson          | Male        |   1.81 |   6.31 | 100 m dash
+ Hulda Geirsdóttir       | Female      |   1.72 |   1.16 | High Jump
+ Geir Rúnarsson          | Male        |   1.78 |  12.22 | Triple Jump
+ Friðgeir Sunnevuson     | Male        |   1.73 |  15.67 | Shot Put
+ Elva Rúnarsdóttir       | Female      |   1.67 |   6.57 | Long Jump
+ Gréta Huldudóttir       | Female      |   1.76 |   7.68 | 100 m dash
+ Gunnar Kristjánsson     | Male        |   1.78 |  15.96 | Shot Put
+ Kristján Evuson         | Male        |   1.84 |   9.52 | 100 m dash
+ Kristján Evuson         | Male        |   1.84 |   1.16 | High Jump
+ Sunneva Björnsdóttir    | Female      |   1.61 |    4.5 | Long Jump
+ Björn Rúnarsson         | Male        |   1.81 |  15.65 | Shot Put
+ Ármann Geirsson         | Male        |   1.84 |   1.84 | High Jump
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   7.83 | Triple Jump
+ Geir Rúnarsson          | Male        |   1.78 |   5.85 | Long Jump
+ Björn Benediktsson      | Male        |   1.84 |   4.53 | Long Jump
+ Ása Friðgeirsdóttir     | Female      |   1.77 |   1.22 | High Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |   8.52 | 100 m dash
+ Gréta Huldudóttir       | Female      |   1.76 |  12.06 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.62 |   1.74 | High Jump
+ Gunnar Benediktsson     | Male        |   1.83 |  10.15 | Triple Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   4.38 | Long Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   5.52 | Long Jump
+ Kristján Gunnarsson     | Male        |   1.81 |   6.11 | 100 m dash
+ Angela Friðgeirsdóttir  | Female      |   1.68 |  10.96 | Shot Put
+ Geir Kristjánsson       | Male        |   1.73 |  10.17 | 100 m dash
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   9.93 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   4.55 | Long Jump
+ Ármann Rúnarsson        | Male        |   1.78 |  16.37 | Shot Put
+ Kristján Ármannsson     | Male        |   1.89 |  12.34 | Triple Jump
+ Ármann Geirsson         | Male        |   1.77 |  16.37 | Shot Put
+ Angela Gunnarsdóttir    | Female      |   1.72 |   8.84 | Shot Put
+ Eva Geirsdóttir         | Female      |   1.61 |   4.64 | Long Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |   1.57 | High Jump
+ Geir Jónsson            | Male        |   1.75 |  13.73 | Shot Put
+ Björn Rúnarsson         | Male        |   1.88 |   6.97 | 100 m dash
+ Kristján Ármannsson     | Male        |   1.89 |   1.98 | High Jump
+ Ása Evudóttir           | Female      |   1.73 |   6.17 | Long Jump
+ Elva Rúnarsdóttir       | Female      |   1.67 |   9.02 | Triple Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   6.52 | Long Jump
+ Geir Rúnarsson          | Male        |   1.78 |   1.09 | High Jump
+ Benedikt Helguson       | Male        |   1.88 |    8.5 | 100 m dash
+ Sunneva Björnsdóttir    | Female      |   1.61 |   1.43 | High Jump
+ Elva Rúnarsdóttir       | Female      |   1.67 |    9.1 | 100 m dash
+ Ármann Ármannsson       | Male        |   1.77 |   8.45 | Triple Jump
+ Helga Elvudóttir        | Female      |   1.68 |   9.79 | 100 m dash
+ Sunneva Benediktsdóttir | Female      |   1.66 |    6.7 | Long Jump
+ Gréta Kristjánsdóttir   | Female      |   1.79 |  16.56 | Shot Put
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   6.21 | Long Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   9.05 | Triple Jump
+ Björgvin Jónsson        | Male        |   1.86 |    4.5 | Long Jump
+ Geir Gunnarsson         | Male        |   1.83 |   5.28 | 100 m dash
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   8.74 | 100 m dash
+ Sunneva Björnsdóttir    | Female      |   1.71 |  10.31 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   15.6 | Shot Put
+ Björgvin Ármannsson     | Male        |   1.72 |    7.3 | 100 m dash
+ Geir Jónsson            | Male        |   1.75 |   6.13 | Long Jump
+ Jón Sunnevuson          | Male        |   1.78 |   5.08 | Long Jump
+ Ármann Gunnarsson       | Male        |   1.88 |   6.58 | 100 m dash
+ Benedikt Helguson       | Male        |   1.88 |   1.17 | High Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |  15.92 | Shot Put
+ Rúnar Geirsson          | Male        |   1.71 |   8.01 | 100 m dash
+ Eva Gunnarsdóttir       | Female      |   1.61 |   5.78 | Long Jump
+ Eva Benediktsdóttir     | Female      |   1.66 |  14.79 | Shot Put
+ Lovísa Helgudóttir      | Female      |   1.64 |  10.32 | Triple Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |  10.05 | Shot Put
+ Gunnar Jónsson          | Male        |   1.81 |   9.03 | Shot Put
+ Ármann Gunnarsson       | Male        |   1.88 |      7 | 100 m dash
+ Jóna Jónsdóttir         | Female      |   1.72 |  10.06 | Shot Put
+ Gréta Jónsdóttir        | Female      |   1.73 |   1.38 | High Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |  12.96 | Triple Jump
+ Björgvin Björnsson      | Male        |   1.82 |   5.17 | Long Jump
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   1.88 | High Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |   1.95 | High Jump
+ Ása Evudóttir           | Female      |   1.73 |   5.52 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |   9.16 | 100 m dash
+ Gréta Elvudóttir        | Female      |   1.76 |   1.07 | High Jump
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   1.19 | High Jump
+ Hulda Kristjánsdóttir   | Female      |   1.77 |  11.09 | Shot Put
+ Björn Friðgeirsson      | Male        |   1.71 |  10.59 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |  15.46 | Shot Put
+ Kristján Ármannsson     | Male        |   1.89 |   11.6 | Triple Jump
+ Rúnar Björnsson         | Male        |   1.71 |   9.08 | Shot Put
+ Hulda Björgvinsdóttir   | Female      |   1.72 |  12.92 | Triple Jump
+ Jóna Jónsdóttir         | Female      |   1.72 |   1.84 | High Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   7.71 | 100 m dash
+ Ása Evudóttir           | Female      |   1.65 |   6.04 | Long Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |   7.38 | 100 m dash
+ Eva Björgvinsdóttir     | Female      |   1.79 |   9.85 | 100 m dash
+ Björn Lovísuson         | Male        |   1.85 |   9.46 | 100 m dash
+ Björn Friðgeirsson      | Male        |   1.71 |   6.29 | Long Jump
+ Jón Sunnevuson          | Male        |   1.78 |    1.7 | High Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |  11.41 | Triple Jump
+ Rúnar Geirsson          | Male        |   1.71 |   9.56 | Shot Put
+ Jón Rúnarsson           | Male        |   1.75 |   7.39 | Triple Jump
+ Björgvin Friðgeirsson   | Male        |   1.75 |   7.23 | 100 m dash
+ Elva Rúnarsdóttir       | Female      |   1.67 |   9.58 | Shot Put
+ Geir Grétuson           | Male        |   1.88 |   4.88 | Long Jump
+ Björn Angeluson         | Male        |   1.84 |   2.07 | High Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   6.75 | Triple Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |  11.82 | Shot Put
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   1.13 | High Jump
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   6.16 | 100 m dash
+ Sunneva Geirsdóttir     | Female      |   1.66 |  14.99 | Shot Put
+ Helga Björnsdóttir      | Female      |   1.63 |   7.24 | 100 m dash
+ Gréta Elvudóttir        | Female      |   1.76 |   4.31 | Long Jump
+ Gunnar Ármannsson       | Male        |   1.85 |  11.01 | Shot Put
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   1.63 | High Jump
+ Ása Geirsdóttir         | Female      |   1.71 |    6.9 | 100 m dash
+ Geir Grétuson           | Male        |   1.88 |   5.52 | Long Jump
+ Kristján Gunnarsson     | Male        |   1.81 |   9.53 | Triple Jump
+ Björn Rúnarsson         | Male        |   1.81 |  10.48 | Triple Jump
+ Björn Geirsson          | Male        |   1.71 |  12.23 | Triple Jump
+ Ármann Geirsson         | Male        |   1.77 |   1.49 | High Jump
+ Ármann Geirsson         | Male        |   1.88 |   5.74 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.73 |  16.18 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |  11.12 | Triple Jump
+ Rúnar Geirsson          | Male        |   1.71 |   9.91 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.81 |   4.88 | Long Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |  10.68 | Triple Jump
+ Elva Benediktsdóttir    | Female      |   1.78 |   9.91 | 100 m dash
+ Geir Hulduson           | Male        |   1.87 |   5.51 | Long Jump
+ Rúnar Geirsson          | Male        |   1.71 |   1.38 | High Jump
+ Gunnar Jónsson          | Male        |   1.87 |   6.11 | 100 m dash
+ Björn Rúnarsson         | Male        |   1.88 |   7.88 | 100 m dash
+ Ása Jónsdóttir          | Female      |    1.7 |   9.41 | Triple Jump
+ Jóna Geirsdóttir        | Female      |   1.71 |   5.96 | Long Jump
+ Angela Rúnarsdóttir     | Female      |   1.71 |   2.04 | High Jump
+ Ármann Ármannsson       | Male        |   1.77 |   8.42 | Triple Jump
+ Ármann Geirsson         | Male        |   1.84 |   1.21 | High Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   16.3 | Shot Put
+ Ása Evudóttir           | Female      |   1.65 |  15.68 | Shot Put
+ Jóna Angeludóttir       | Female      |   1.69 |   1.18 | High Jump
+ Geir Kristjánsson       | Male        |   1.73 |  12.76 | Shot Put
+ Björgvin Björgvinsson   | Male        |   1.75 |   7.62 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |    9.5 | Shot Put
+ Kristján Björnsson      | Male        |   1.87 |   9.45 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.81 |   6.16 | Long Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |   7.62 | Triple Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.73 |   9.23 | 100 m dash
+ Geir Hulduson           | Male        |   1.71 |   6.71 | 100 m dash
+ Björn Björnsson         | Male        |   1.84 |   9.01 | Shot Put
+ Gréta Kristjánsdóttir   | Female      |   1.62 |   1.93 | High Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   6.47 | 100 m dash
+ Geir Friðgeirsson       | Male        |   1.86 |   4.75 | Long Jump
+ Elva Friðgeirsdóttir    | Female      |   1.77 |   6.62 | 100 m dash
+ Jóna Björnsdóttir       | Female      |   1.69 |  10.44 | Shot Put
+ Geir Hulduson           | Male        |   1.71 |   6.16 | Long Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   2.04 | High Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |   6.78 | 100 m dash
+ Hulda Evudóttir         | Female      |   1.77 |    9.8 | Triple Jump
+ Helga Björgvinsdóttir   | Female      |   1.73 |  11.41 | Triple Jump
+ Lovísa Kristjánsdóttir  | Female      |   1.62 |  13.37 | Shot Put
+ Lovísa Kristjánsdóttir  | Female      |   1.62 |   8.11 | Triple Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   8.85 | 100 m dash
+ Geir Rúnarsson          | Male        |   1.78 |   6.63 | Long Jump
+ Lovísa Kristjánsdóttir  | Female      |   1.62 |   8.07 | 100 m dash
+ Ármann Geirsson         | Male        |   1.77 |  11.27 | Triple Jump
+ Ása Rúnarsdóttir        | Female      |   1.63 |  10.17 | 100 m dash
+ Jón Ármannsson          | Male        |   1.78 |   9.42 | Triple Jump
+ Björn Lovísuson         | Male        |   1.85 |   3.91 | Long Jump
+ Geir Björgvinsson       | Male        |   1.81 |  11.28 | Triple Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |   1.46 | High Jump
+ Hulda Björnsdóttir      | Female      |   1.74 |  12.39 | Shot Put
+ Lovísa Gunnarsdóttir    | Female      |   1.74 |   4.58 | Long Jump
+ Elva Gunnarsdóttir      | Female      |   1.79 |  11.82 | Shot Put
+ Jón Rúnarsson           | Male        |   1.75 |   1.57 | High Jump
+ Elva Rúnarsdóttir       | Female      |   1.67 |   9.04 | Shot Put
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   7.84 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   7.08 | 100 m dash
+ Hulda Jónsdóttir        | Female      |   1.75 |   6.49 | Long Jump
+ Elva Gunnarsdóttir      | Female      |   1.64 |    9.4 | 100 m dash
+ Gréta Jónsdóttir        | Female      |   1.73 |   8.23 | Triple Jump
+ Jóna Friðgeirsdóttir    | Female      |   1.76 |   8.75 | Shot Put
+ Gunnar Kristjánsson     | Male        |   1.78 |   1.28 | High Jump
+ Gunnar Jónsson          | Male        |   1.81 |  12.96 | Shot Put
+ Kristján Jónsson        | Male        |   1.89 |   1.84 | High Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   6.17 | Long Jump
+ Geir Grétuson           | Male        |   1.88 |   5.23 | Long Jump
+ Hulda Evudóttir         | Female      |   1.77 |   1.85 | High Jump
+ Björn Rúnarsson         | Male        |   1.88 |   5.82 | Long Jump
+ Sunneva Geirsdóttir     | Female      |   1.66 |   9.39 | Triple Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.73 |   6.73 | 100 m dash
+ Hulda Elvudóttir        | Female      |   1.61 |  14.86 | Shot Put
+ Geir Björnsson          | Male        |   1.72 |   8.65 | 100 m dash
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   9.25 | 100 m dash
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   12.9 | Shot Put
+ Björn Geirsson          | Male        |   1.84 |   8.26 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   2.05 | High Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   5.58 | Long Jump
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |  12.37 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |   9.14 | Triple Jump
+ Björn Jónuson           | Male        |   1.73 |   3.42 | Long Jump
+ Lovísa Gunnarsdóttir    | Female      |   1.74 |  14.54 | Shot Put
+ Björn Geirsson          | Male        |   1.71 |  10.56 | Shot Put
+ Björn Björnsson         | Male        |   1.82 |  15.33 | Shot Put
+ Ármann Ármannsson       | Male        |   1.77 |   4.96 | Long Jump
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   5.01 | Long Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   4.95 | Long Jump
+ Ármann Rúnarsson        | Male        |   1.78 |   4.21 | Long Jump
+ Björn Björnsson         | Male        |   1.84 |   8.54 | 100 m dash
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   9.22 | 100 m dash
+ Hulda Evudóttir         | Female      |   1.77 |   4.78 | Long Jump
+ Benedikt Helguson       | Male        |   1.88 |   6.53 | Long Jump
+ Ármann Rúnarsson        | Male        |   1.78 |    6.6 | Triple Jump
+ Rúnar Kristjánsson      | Male        |   1.71 |   9.05 | 100 m dash
+ Kristján Evuson         | Male        |   1.84 |   8.15 | Triple Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   2.06 | High Jump
+ Friðgeir Sunnevuson     | Male        |   1.73 |   9.01 | Triple Jump
+ Kristján Ármannsson     | Male        |   1.89 |   2.07 | High Jump
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   9.24 | 100 m dash
+ Friðgeir Gunnarsson     | Male        |   1.87 |  12.95 | Shot Put
+ Jóna Jónsdóttir         | Female      |   1.72 |   4.31 | Long Jump
+ Elva Kristjánsdóttir    | Female      |   1.64 |   6.15 | Long Jump
+ Björgvin Björnsson      | Male        |   1.82 |   9.52 | 100 m dash
+ Eva Geirsdóttir         | Female      |   1.61 |  11.97 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   1.34 | High Jump
+ Geir Björnsson          | Male        |   1.72 |   9.75 | Triple Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |   2.09 | High Jump
+ Eva Björgvinsdóttir     | Female      |   1.79 |   8.95 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.81 |   1.65 | High Jump
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   5.96 | 100 m dash
+ Kristján Gunnarsson     | Male        |   1.81 |   5.99 | Long Jump
+ Gunnar Benediktsson     | Male        |   1.83 |  10.29 | 100 m dash
+ Gréta Kristjánsdóttir   | Female      |   1.62 |   9.55 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.64 |  15.85 | Shot Put
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   6.51 | Long Jump
+ Geir Grétuson           | Male        |   1.88 |  15.07 | Shot Put
+ Angela Geirsdóttir      | Female      |   1.76 |   1.46 | High Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |   6.14 | 100 m dash
+ Ása Geirsdóttir         | Female      |   1.75 |    1.7 | High Jump
+ Elva Friðgeirsdóttir    | Female      |   1.77 |  13.38 | Shot Put
+ Elva Friðgeirsdóttir    | Female      |   1.77 |  14.94 | Shot Put
+ Geir Kristjánsson       | Male        |   1.73 |   9.27 | Shot Put
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   6.58 | Triple Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   1.32 | High Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |   10.2 | Triple Jump
+ Kristján Gunnarsson     | Male        |   1.81 |   9.71 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.81 |    3.4 | Long Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |  14.21 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.78 |   7.17 | 100 m dash
+ Helga Elvudóttir        | Female      |   1.68 |   1.68 | High Jump
+ Rúnar Kristjánsson      | Male        |   1.76 |   7.81 | 100 m dash
+ Lovísa Benediktsdóttir  | Female      |   1.72 |  11.14 | Shot Put
+ Kristján Björnsson      | Male        |   1.87 |  14.75 | Shot Put
+ Gunnar Björnsson        | Male        |   1.77 |   9.39 | Shot Put
+ Björn Björnsson         | Male        |   1.84 |   5.86 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   9.73 | Shot Put
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   8.17 | 100 m dash
+ Ása Friðgeirsdóttir     | Female      |   1.75 |   1.68 | High Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   6.45 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   9.48 | Shot Put
+ Sunneva Björnsdóttir    | Female      |   1.71 |   1.23 | High Jump
+ Elva Rúnarsdóttir       | Female      |   1.67 |   1.09 | High Jump
+ Elva Gunnarsdóttir      | Female      |   1.64 |  16.09 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.73 |  15.58 | Shot Put
+ Kristján Geirsson       | Male        |   1.75 |  14.22 | Shot Put
+ Ása Kristjánsdóttir     | Female      |   1.64 |  11.04 | Triple Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   1.98 | High Jump
+ Eva Geirsdóttir         | Female      |   1.61 |   5.62 | Long Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |   6.69 | 100 m dash
+ Eva Björgvinsdóttir     | Female      |   1.79 |   1.27 | High Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |  10.82 | Shot Put
+ Björn Rúnarsson         | Male        |   1.88 |  14.32 | Shot Put
+ Björn Angeluson         | Male        |   1.84 |   6.74 | 100 m dash
+ Benedikt Helguson       | Male        |   1.88 |   6.19 | Long Jump
+ Sunneva Björnsdóttir    | Female      |    1.7 |   6.75 | Long Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |   6.12 | 100 m dash
+ Angela Friðgeirsdóttir  | Female      |   1.68 |  11.31 | Shot Put
+ Jóna Björnsdóttir       | Female      |   1.69 |   7.58 | 100 m dash
+ Geir Benediktsson       | Male        |   1.89 |   9.48 | Shot Put
+ Hulda Geirsdóttir       | Female      |   1.62 |   9.63 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |  10.39 | Shot Put
+ Ármann Geirsson         | Male        |   1.88 |  12.77 | Shot Put
+ Björgvin Björnsson      | Male        |   1.82 |   1.71 | High Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   1.61 | High Jump
+ Eva Björgvinsdóttir     | Female      |   1.79 |   4.08 | Long Jump
+ Geir Grétuson           | Male        |   1.88 |   9.13 | Triple Jump
+ Geir Grétuson           | Male        |   1.88 |    1.6 | High Jump
+ Ármann Ármannsson       | Male        |   1.77 |   9.19 | 100 m dash
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   5.75 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   2.01 | High Jump
+ Ármann Geirsson         | Male        |   1.88 |   1.69 | High Jump
+ Ármann Rúnarsson        | Male        |   1.78 |   1.21 | High Jump
+ Ármann Ármannsson       | Male        |   1.77 |   1.08 | High Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   5.82 | Long Jump
+ Kristján Evuson         | Male        |   1.84 |  10.19 | Triple Jump
+ Ármann Rúnarsson        | Male        |   1.77 |   3.65 | Long Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |  13.08 | Shot Put
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   6.03 | 100 m dash
+ Jóna Björnsdóttir       | Female      |   1.69 |   4.31 | Long Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   4.14 | Long Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |   3.69 | Long Jump
+ Ása Friðgeirsdóttir     | Female      |   1.75 |  12.08 | Triple Jump
+ Ása Friðgeirsdóttir     | Female      |   1.75 |   1.18 | High Jump
+ Björn Rúnarsson         | Male        |   1.88 |  11.96 | Triple Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   6.74 | Triple Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   6.44 | 100 m dash
+ Kristján Evuson         | Male        |   1.84 |   7.97 | Triple Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |   6.94 | 100 m dash
+ Rúnar Björnsson         | Male        |   1.71 |   5.76 | Long Jump
+ Rúnar Sunnevuson        | Male        |   1.75 |  11.42 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.73 |   1.75 | High Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   9.83 | 100 m dash
+ Björn Geirsson          | Male        |   1.71 |   1.22 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |    1.1 | High Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |  13.89 | Shot Put
+ Björn Björnsson         | Male        |   1.77 |   1.72 | High Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   1.38 | High Jump
+ Hulda Jónsdóttir        | Female      |   1.73 |   6.85 | Triple Jump
+ Geir Grétuson           | Male        |   1.88 |   6.79 | Triple Jump
+ Jóna Geirsdóttir        | Female      |   1.71 |   7.29 | 100 m dash
+ Friðgeir Gunnarsson     | Male        |   1.87 |   1.06 | High Jump
+ Ása Jónsdóttir          | Female      |    1.7 |  10.16 | Triple Jump
+ Ása Geirsdóttir         | Female      |   1.76 |  11.04 | Shot Put
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   5.09 | Long Jump
+ Helga Björnsdóttir      | Female      |   1.63 |  10.74 | Shot Put
+ Jón Rúnarsson           | Male        |   1.75 |   8.36 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |  14.13 | Shot Put
+ Rúnar Kristjánsson      | Male        |   1.71 |      6 | Long Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |  16.22 | Shot Put
+ Ármann Rúnarsson        | Male        |   1.78 |  11.15 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |   9.72 | Triple Jump
+ Ármann Geirsson         | Male        |   1.88 |   6.24 | Long Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |   3.69 | Long Jump
+ Friðgeir Sunnevuson     | Male        |   1.73 |  12.36 | Triple Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   5.05 | Long Jump
+ Gunnar Ármannsson       | Male        |   1.85 |  11.27 | Triple Jump
+ Kristján Björnsson      | Male        |   1.85 |  12.67 | Shot Put
+ Ármann Rúnarsson        | Male        |   1.77 |   4.18 | Long Jump
+ Elva Gunnarsdóttir      | Female      |   1.64 |   1.35 | High Jump
+ Sunneva Kristjánsdóttir | Female      |   1.74 |    2.1 | High Jump
+ Benedikt Ármannsson     | Male        |   1.88 |     10 | Shot Put
+ Gunnar Jónsson          | Male        |   1.81 |    8.8 | 100 m dash
+ Gréta Rúnarsdóttir      | Female      |   1.73 |  16.51 | Shot Put
+ Hulda Elvudóttir        | Female      |   1.61 |  12.87 | Shot Put
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   1.63 | High Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |  15.47 | Shot Put
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   6.64 | Long Jump
+ Geir Benediktsson       | Male        |   1.89 |   4.28 | Long Jump
+ Björn Benediktsson      | Male        |   1.84 |   9.19 | Triple Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |    7.1 | 100 m dash
+ Geir Friðgeirsson       | Male        |   1.73 |    5.3 | 100 m dash
+ Helga Björnsdóttir      | Female      |   1.63 |  14.82 | Shot Put
+ Ása Evudóttir           | Female      |   1.65 |   9.15 | 100 m dash
+ Ása Geirsdóttir         | Female      |   1.75 |   1.26 | High Jump
+ Jóna Angeludóttir       | Female      |   1.69 |   9.58 | 100 m dash
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   9.46 | 100 m dash
+ Hulda Björnsdóttir      | Female      |   1.74 |  11.49 | Triple Jump
+ Jóna Jónsdóttir         | Female      |   1.72 |  12.38 | Shot Put
+ Lovísa Helgudóttir      | Female      |   1.64 |   9.15 | Shot Put
+ Gréta Elvudóttir        | Female      |   1.76 |   4.45 | Long Jump
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   5.94 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   8.84 | Shot Put
+ Björn Lovísuson         | Male        |   1.85 |   6.04 | 100 m dash
+ Hulda Geirsdóttir       | Female      |   1.62 |    1.7 | High Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   9.73 | 100 m dash
+ Ása Evudóttir           | Female      |   1.65 |   5.58 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |  10.11 | Triple Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   6.56 | 100 m dash
+ Ármann Geirsson         | Male        |   1.77 |   9.48 | Triple Jump
+ Björn Jónuson           | Male        |   1.73 |  10.35 | 100 m dash
+ Angela Rúnarsdóttir     | Female      |   1.71 |   1.13 | High Jump
+ Geir Kristjánsson       | Male        |   1.73 |   5.34 | 100 m dash
+ Gunnar Benediktsson     | Male        |   1.83 |  13.03 | Triple Jump
+ Benedikt Benediktsson   | Male        |   1.81 |    6.4 | 100 m dash
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   1.62 | High Jump
+ Ármann Rúnarsson        | Male        |   1.78 |  12.18 | Triple Jump
+ Björn Jónuson           | Male        |   1.73 |  11.93 | Triple Jump
+ Gunnar Benediktsson     | Male        |   1.83 |   3.42 | Long Jump
+ Björgvin Björnsson      | Male        |   1.82 |  11.21 | Shot Put
+ Friðgeir Geirsson       | Male        |   1.88 |  10.27 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   6.53 | 100 m dash
+ Rúnar Benediktsson      | Male        |   1.71 |   1.21 | High Jump
+ Gréta Huldudóttir       | Female      |   1.76 |  10.95 | Triple Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |    9.4 | Shot Put
+ Geir Jónsson            | Male        |   1.75 |   2.05 | High Jump
+ Angela Rúnarsdóttir     | Female      |   1.71 |   1.88 | High Jump
+ Geir Hulduson           | Male        |   1.87 |   6.42 | Long Jump
+ Ármann Ármannsson       | Male        |   1.77 |  13.75 | Shot Put
+ Rúnar Björgvinsson      | Male        |   1.88 |   1.43 | High Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |  12.96 | Triple Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |   8.81 | 100 m dash
+ Kristján Björnsson      | Male        |   1.87 |  11.82 | Shot Put
+ Ármann Ármannsson       | Male        |   1.77 |  12.29 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   6.61 | 100 m dash
+ Jón Kristjánsson        | Male        |   1.79 |   9.81 | Shot Put
+ Hulda Evudóttir         | Female      |   1.77 |   6.78 | 100 m dash
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   1.53 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |   4.21 | Long Jump
+ Gunnar Jónsson          | Male        |   1.81 |  10.14 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |   5.59 | 100 m dash
+ Benedikt Benediktsson   | Male        |   1.81 |   9.83 | Shot Put
+ Ása Evudóttir           | Female      |   1.65 |   1.73 | High Jump
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   1.13 | High Jump
+ Geir Grétuson           | Male        |   1.88 |  12.03 | Triple Jump
+ Ármann Geirsson         | Male        |   1.84 |   2.06 | High Jump
+ Ármann Ármannsson       | Male        |   1.77 |   4.65 | Long Jump
+ Rúnar Sunnevuson        | Male        |   1.75 |   5.36 | Long Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   1.16 | High Jump
+ Kristján Ármannsson     | Male        |   1.89 |  15.02 | Shot Put
+ Jóna Rúnarsdóttir       | Female      |   1.68 |  14.95 | Shot Put
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   5.62 | 100 m dash
+ Björn Rúnarsson         | Male        |   1.88 |   1.61 | High Jump
+ Ármann Geirsson         | Male        |   1.88 |   7.79 | Triple Jump
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   1.57 | High Jump
+ Elva Kristjánsdóttir    | Female      |   1.64 |   4.25 | Long Jump
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   6.74 | 100 m dash
+ Björn Lovísuson         | Male        |   1.85 |   1.18 | High Jump
+ Geir Benediktsson       | Male        |   1.89 |   1.49 | High Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |   7.78 | Triple Jump
+ Ármann Rúnarsson        | Male        |   1.77 |  11.78 | Triple Jump
+ Jóna Jónsdóttir         | Female      |   1.72 |   9.47 | Triple Jump
+ Sunneva Benediktsdóttir | Female      |   1.66 |    5.8 | Long Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   5.28 | 100 m dash
+ Jón Kristjánsson        | Male        |   1.79 |   5.24 | Long Jump
+ Björn Rúnarsson         | Male        |   1.88 |   4.59 | Long Jump
+ Geir Kristjánsson       | Male        |   1.73 |  15.86 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |   6.77 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.62 |   9.32 | 100 m dash
+ Elva Rúnarsdóttir       | Female      |   1.67 |   8.63 | Triple Jump
+ Gréta Huldudóttir       | Female      |   1.76 |    1.5 | High Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   9.08 | 100 m dash
+ Gréta Elvudóttir        | Female      |   1.76 |   7.91 | 100 m dash
+ Ármann Rúnarsson        | Male        |   1.77 |   6.03 | Long Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |   6.91 | 100 m dash
+ Friðgeir Geirsson       | Male        |   1.88 |   4.65 | Long Jump
+ Elva Gunnarsdóttir      | Female      |   1.79 |  15.42 | Shot Put
+ Lovísa Helgudóttir      | Female      |   1.64 |   7.35 | 100 m dash
+ Eva Björgvinsdóttir     | Female      |   1.79 |   6.56 | Long Jump
+ Björn Kristjánsson      | Male        |    1.8 |   8.35 | 100 m dash
+ Geir Grétuson           | Male        |   1.88 |   7.79 | Triple Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   7.08 | 100 m dash
+ Hulda Geirsdóttir       | Female      |   1.72 |   4.69 | Long Jump
+ Geir Gunnarsson         | Male        |    1.7 |  14.55 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.73 |  10.85 | Triple Jump
+ Elva Gunnarsdóttir      | Female      |   1.64 |  15.24 | Shot Put
+ Lovísa Benediktsdóttir  | Female      |   1.72 |  11.02 | Triple Jump
+ Kristján Björnsson      | Male        |   1.85 |   8.79 | Shot Put
+ Hulda Kristjánsdóttir   | Female      |   1.77 |   8.62 | Triple Jump
+ Lovísa Benediktsdóttir  | Female      |   1.73 |   8.95 | Shot Put
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   6.15 | 100 m dash
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   5.58 | Long Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |   9.46 | Triple Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |  12.23 | Triple Jump
+ Geir Björgvinsson       | Male        |   1.81 |   5.42 | Long Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |  12.04 | Triple Jump
+ Jóna Angeludóttir       | Female      |   1.69 |    5.9 | Long Jump
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   8.52 | 100 m dash
+ Elva Kristjánsdóttir    | Female      |   1.64 |   5.58 | Long Jump
+ Gréta Kristjánsdóttir   | Female      |   1.67 |   1.58 | High Jump
+ Lovísa Benediktsdóttir  | Female      |   1.72 |  11.68 | Triple Jump
+ Ármann Geirsson         | Male        |   1.84 |   3.42 | Long Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |  12.75 | Triple Jump
+ Rúnar Benediktsson      | Male        |   1.71 |   1.97 | High Jump
+ Gréta Kristjánsdóttir   | Female      |   1.79 |   1.82 | High Jump
+ Björn Björnsson         | Male        |   1.88 |   5.21 | Long Jump
+ Geir Grétuson           | Male        |   1.88 |   4.85 | Long Jump
+ Björn Benediktsson      | Male        |   1.84 |   6.45 | 100 m dash
+ Sunneva Geirsdóttir     | Female      |   1.66 |   5.63 | Long Jump
+ Gunnar Jónsson          | Male        |   1.87 |   1.97 | High Jump
+ Björn Angeluson         | Male        |   1.84 |   5.05 | Long Jump
+ Geir Rúnarsson          | Male        |   1.78 |   9.35 | Triple Jump
+ Ármann Gunnarsson       | Male        |   1.88 |  15.07 | Shot Put
+ Jóna Jónsdóttir         | Female      |   1.72 |   8.85 | 100 m dash
+ Björgvin Björgvinsson   | Male        |   1.75 |    8.7 | Shot Put
+ Björgvin Björnsson      | Male        |   1.82 |  11.25 | Triple Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   4.69 | Long Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   6.51 | 100 m dash
+ Sunneva Jónudóttir      | Female      |   1.77 |  15.84 | Shot Put
+ Kristján Geirsson       | Male        |   1.75 |   5.27 | Long Jump
+ Geir Benediktsson       | Male        |   1.89 |   6.63 | Long Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   1.44 | High Jump
+ Helga Björnsdóttir      | Female      |    1.6 |  16.04 | Shot Put
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   8.94 | Triple Jump
+ Björn Friðgeirsson      | Male        |   1.71 |   1.65 | High Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |   6.87 | Triple Jump
+ Björn Björnsson         | Male        |   1.84 |  11.96 | Triple Jump
+ Geir Hulduson           | Male        |   1.71 |   9.15 | Triple Jump
+ Geir Björgvinsson       | Male        |   1.81 |   1.58 | High Jump
+ Björn Jónuson           | Male        |   1.73 |   2.02 | High Jump
+ Gréta Huldudóttir       | Female      |   1.76 |   1.15 | High Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |  14.39 | Shot Put
+ Björn Björnsson         | Male        |   1.82 |   3.46 | Long Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   9.23 | Triple Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |   9.78 | 100 m dash
+ Björn Geirsson          | Male        |   1.84 |    6.3 | Long Jump
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   8.39 | Shot Put
+ Gréta Kristjánsdóttir   | Female      |   1.62 |   5.86 | Long Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   6.57 | Long Jump
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   9.21 | 100 m dash
+ Björgvin Björgvinsson   | Male        |   1.75 |   7.34 | Triple Jump
+ Ármann Rúnarsson        | Male        |   1.77 |  12.41 | Shot Put
+ Elva Kristjánsdóttir    | Female      |   1.64 |   6.78 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |  10.73 | Shot Put
+ Jón Kristjánsson        | Male        |   1.79 |   1.08 | High Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   8.79 | 100 m dash
+ Gréta Huldudóttir       | Female      |   1.76 |   5.79 | Long Jump
+ Björn Björnsson         | Male        |   1.84 |  15.38 | Shot Put
+ Eva Gunnarsdóttir       | Female      |   1.61 |    2.1 | High Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   1.89 | High Jump
+ Björn Rúnarsson         | Male        |   1.81 |   1.61 | High Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |   9.68 | Shot Put
+ Ása Björgvinsdóttir     | Female      |   1.71 |   1.43 | High Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |  14.22 | Shot Put
+ Geir Grétuson           | Male        |   1.88 |   1.32 | High Jump
+ Geir Benediktsson       | Male        |   1.89 |    5.3 | 100 m dash
+ Geir Friðgeirsson       | Male        |   1.86 |   7.88 | Triple Jump
+ Helga Ármannsdóttir     | Female      |   1.61 |    8.7 | 100 m dash
+ Eva Geirsdóttir         | Female      |   1.61 |   1.45 | High Jump
+ Björn Lovísuson         | Male        |   1.85 |   7.77 | 100 m dash
+ Sunneva Ármannsdóttir   | Female      |   1.65 |   1.28 | High Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   9.13 | 100 m dash
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   6.39 | Long Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |  10.47 | Triple Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |  12.72 | Shot Put
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   1.94 | High Jump
+ Ármann Gunnarsson       | Male        |   1.88 |   8.88 | Shot Put
+ Björn Rúnarsson         | Male        |   1.88 |   9.02 | 100 m dash
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   1.75 | High Jump
+ Ása Evudóttir           | Female      |   1.65 |   7.67 | 100 m dash
+ Kristján Björnsson      | Male        |   1.85 |   6.23 | Long Jump
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   5.41 | 100 m dash
+ Rúnar Björgvinsson      | Male        |   1.88 |   7.69 | 100 m dash
+ Björgvin Björnsson      | Male        |   1.82 |   1.72 | High Jump
+ Ása Jónsdóttir          | Female      |    1.7 |  11.84 | Triple Jump
+ Kristján Björnsson      | Male        |   1.85 |  10.36 | 100 m dash
+ Benedikt Jónsson        | Male        |   1.71 |   7.66 | 100 m dash
+ Gréta Kristjánsdóttir   | Female      |   1.79 |   1.19 | High Jump
+ Geir Benediktsson       | Male        |   1.89 |   6.67 | Long Jump
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   6.74 | Triple Jump
+ Kristján Benediktsson   | Male        |   1.75 |  11.61 | Shot Put
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   5.62 | 100 m dash
+ Ása Kristjánsdóttir     | Female      |   1.64 |  15.38 | Shot Put
+ Sunneva Björnsdóttir    | Female      |   1.61 |   4.65 | Long Jump
+ Gunnar Friðgeirsson     | Male        |   1.73 |  11.05 | Triple Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   6.95 | Triple Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |    6.6 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.62 |  12.76 | Triple Jump
+ Geir Jónsson            | Male        |   1.85 |  12.23 | Shot Put
+ Rúnar Kristjánsson      | Male        |   1.71 |  12.37 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |    1.4 | High Jump
+ Gunnar Hulduson         | Male        |    1.8 |   1.87 | High Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   5.93 | 100 m dash
+ Ármann Ármannsson       | Male        |   1.77 |    6.6 | 100 m dash
+ Ása Geirsdóttir         | Female      |   1.71 |   7.13 | Triple Jump
+ Hulda Evudóttir         | Female      |   1.77 |   3.47 | Long Jump
+ Geir Hulduson           | Male        |   1.87 |  12.81 | Triple Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   9.43 | Triple Jump
+ Björn Geirsson          | Male        |   1.84 |   5.24 | Long Jump
+ Rúnar Benediktsson      | Male        |   1.71 |    5.4 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   5.84 | Long Jump
+ Kristján Geirsson       | Male        |   1.75 |  16.27 | Shot Put
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   3.69 | Long Jump
+ Björn Rúnarsson         | Male        |   1.88 |   9.93 | 100 m dash
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   8.68 | Triple Jump
+ Björn Geirsson          | Male        |   1.71 |   1.45 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.62 |   9.04 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   1.63 | High Jump
+ Gunnar Benediktsson     | Male        |   1.83 |    6.2 | Long Jump
+ Björgvin Geirsson       | Male        |   1.82 |  11.01 | Shot Put
+ Lovísa Gunnarsdóttir    | Female      |   1.74 |  10.36 | Triple Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   1.69 | High Jump
+ Eva Geirsdóttir         | Female      |   1.61 |   7.38 | 100 m dash
+ Geir Friðgeirsson       | Male        |   1.86 |    1.6 | High Jump
+ Jón Ármannsson          | Male        |   1.78 |   3.97 | Long Jump
+ Eva Björgvinsdóttir     | Female      |   1.79 |    3.9 | Long Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   9.09 | Triple Jump
+ Björn Benediktsson      | Male        |   1.84 |   6.99 | 100 m dash
+ Lovísa Kristjánsdóttir  | Female      |   1.62 |   7.73 | Triple Jump
+ Hulda Jónsdóttir        | Female      |   1.73 |   9.04 | Shot Put
+ Ármann Geirsson         | Male        |   1.88 |   5.72 | 100 m dash
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   7.02 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |   1.25 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |  10.33 | 100 m dash
+ Björn Jónuson           | Male        |   1.73 |    5.5 | Long Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |   7.03 | 100 m dash
+ Ása Evudóttir           | Female      |   1.65 |   8.23 | Triple Jump
+ Helga Ármannsdóttir     | Female      |   1.61 |   1.94 | High Jump
+ Geir Rúnarsson          | Male        |   1.78 |   3.76 | Long Jump
+ Ármann Geirsson         | Male        |   1.88 |    1.5 | High Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   12.5 | Shot Put
+ Angela Gunnarsdóttir    | Female      |   1.72 |   8.77 | Shot Put
+ Ása Jónsdóttir          | Female      |    1.7 |   8.73 | Triple Jump
+ Björgvin Jónsson        | Male        |   1.86 |  12.42 | Triple Jump
+ Geir Rúnarsson          | Male        |   1.78 |   6.45 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |   1.34 | High Jump
+ Kristján Björnsson      | Male        |   1.85 |    7.1 | 100 m dash
+ Angela Björgvinsdóttir  | Female      |   1.64 |  12.87 | Triple Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   6.94 | Triple Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |  11.89 | Shot Put
+ Jóna Geirsdóttir        | Female      |   1.71 |   6.45 | 100 m dash
+ Jón Rúnarsson           | Male        |   1.75 |  12.39 | Shot Put
+ Björgvin Friðgeirsson   | Male        |   1.85 |  13.95 | Shot Put
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   1.35 | High Jump
+ Rúnar Kristjánsson      | Male        |   1.76 |   12.7 | Shot Put
+ Hulda Jónsdóttir        | Female      |   1.73 |   4.21 | Long Jump
+ Gréta Kristjánsdóttir   | Female      |   1.62 |  13.53 | Shot Put
+ Hulda Geirsdóttir       | Female      |   1.72 |   1.19 | High Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |   8.56 | Shot Put
+ Helga Ármannsdóttir     | Female      |   1.61 |   1.24 | High Jump
+ Geir Jónsson            | Male        |   1.85 |   7.16 | Triple Jump
+ Jón Rúnarsson           | Male        |   1.75 |   1.53 | High Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |   3.77 | Long Jump
+ Hulda Jónsdóttir        | Female      |   1.73 |   3.74 | Long Jump
+ Jóna Jónsdóttir         | Female      |   1.72 |   9.39 | Shot Put
+ Gunnar Jónsson          | Male        |   1.87 |   9.97 | 100 m dash
+ Geir Jónsson            | Male        |   1.75 |   4.03 | Long Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   6.96 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |    4.1 | Long Jump
+ Eva Björgvinsdóttir     | Female      |   1.79 |  13.63 | Shot Put
+ Elva Friðgeirsdóttir    | Female      |   1.77 |   1.43 | High Jump
+ Kristján Evuson         | Male        |   1.84 |   1.66 | High Jump
+ Rúnar Kristjánsson      | Male        |   1.76 |  12.69 | Triple Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |   7.71 | 100 m dash
+ Björgvin Friðgeirsson   | Male        |   1.85 |   8.53 | Triple Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |    9.7 | Shot Put
+ Jón Rúnarsson           | Male        |   1.75 |  15.18 | Shot Put
+ Geir Björnsson          | Male        |   1.72 |   1.31 | High Jump
+ Helga Björnsdóttir      | Female      |   1.63 |    1.4 | High Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |   1.54 | High Jump
+ Hulda Jónsdóttir        | Female      |   1.73 |   4.86 | Long Jump
+ Gunnar Benediktsson     | Male        |   1.83 |   9.72 | Shot Put
+ Gréta Kristjánsdóttir   | Female      |   1.62 |  12.92 | Shot Put
+ Björn Geirsson          | Male        |   1.71 |  12.75 | Triple Jump
+ Jón Ármannsson          | Male        |   1.78 |  14.44 | Shot Put
+ Benedikt Benediktsson   | Male        |   1.81 |   9.19 | Triple Jump
+ Helga Björnsdóttir      | Female      |   1.63 |  12.37 | Shot Put
+ Gunnar Kristjánsson     | Male        |   1.78 |  12.59 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.62 |   1.81 | High Jump
+ Rúnar Kristjánsson      | Male        |   1.71 |  14.41 | Shot Put
+ Hulda Evudóttir         | Female      |   1.77 |   1.74 | High Jump
+ Rúnar Sunnevuson        | Male        |   1.75 |  10.21 | Shot Put
+ Gunnar Rúnarsson        | Male        |   1.76 |   8.46 | 100 m dash
+ Björn Björnsson         | Male        |   1.88 |  10.19 | Triple Jump
+ Gréta Kristjánsdóttir   | Female      |   1.62 |   6.11 | Long Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |   7.37 | 100 m dash
+ Hulda Evudóttir         | Female      |   1.77 |  12.63 | Shot Put
+ Gunnar Ármannsson       | Male        |   1.85 |  14.29 | Shot Put
+ Angela Elvudóttir       | Female      |   1.77 |   6.09 | Long Jump
+ Gréta Kristjánsdóttir   | Female      |   1.79 |  14.39 | Shot Put
+ Björgvin Jónsson        | Male        |   1.86 |   1.43 | High Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   5.71 | 100 m dash
+ Kristján Evuson         | Male        |   1.84 |   1.92 | High Jump
+ Gunnar Jónsson          | Male        |   1.87 |   7.25 | 100 m dash
+ Björn Lovísuson         | Male        |   1.85 |   1.81 | High Jump
+ Ása Geirsdóttir         | Female      |   1.76 |  10.42 | Triple Jump
+ Elva Rúnarsdóttir       | Female      |   1.67 |    5.1 | Long Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |   11.2 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |  12.77 | Shot Put
+ Ármann Geirsson         | Male        |   1.77 |   4.08 | Long Jump
+ Helga Björgvinsdóttir   | Female      |   1.73 |   9.51 | 100 m dash
+ Björgvin Ármannsson     | Male        |   1.72 |   2.07 | High Jump
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   9.15 | Triple Jump
+ Kristján Björnsson      | Male        |   1.85 |   9.25 | Triple Jump
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   9.67 | Shot Put
+ Björn Friðgeirsson      | Male        |   1.71 |      5 | Long Jump
+ Geir Björnsson          | Male        |   1.72 |    6.6 | Long Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |   5.97 | Long Jump
+ Lovísa Benediktsdóttir  | Female      |   1.72 |   8.92 | 100 m dash
+ Kristján Geirsson       | Male        |   1.75 |   8.09 | 100 m dash
+ Björn Björnsson         | Male        |   1.84 |  13.15 | Triple Jump
+ Jón Rúnarsson           | Male        |   1.75 |   1.13 | High Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   9.81 | 100 m dash
+ Sunneva Björnsdóttir    | Female      |   1.71 |   4.25 | Long Jump
+ Sunneva Björnsdóttir    | Female      |   1.61 |   8.79 | Triple Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |   7.68 | Triple Jump
+ Ása Geirsdóttir         | Female      |   1.76 |  12.78 | Triple Jump
+ Ása Friðgeirsdóttir     | Female      |   1.75 |    9.2 | Shot Put
+ Kristján Evuson         | Male        |   1.84 |   8.07 | 100 m dash
+ Björn Lovísuson         | Male        |   1.85 |  16.03 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.64 |   4.44 | Long Jump
+ Björn Björnsson         | Male        |   1.84 |  16.31 | Shot Put
+ Rúnar Björgvinsson      | Male        |   1.88 |   8.73 | 100 m dash
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   6.39 | Long Jump
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   1.72 | High Jump
+ Eva Björgvinsdóttir     | Female      |   1.79 |  10.33 | 100 m dash
+ Rúnar Kristjánsson      | Male        |   1.71 |   9.14 | Shot Put
+ Geir Kristjánsson       | Male        |   1.73 |   9.99 | Triple Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   6.14 | 100 m dash
+ Ása Geirsdóttir         | Female      |   1.76 |   8.72 | Triple Jump
+ Jón Ármannsson          | Male        |   1.78 |  15.43 | Shot Put
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   1.52 | High Jump
+ Björgvin Björnsson      | Male        |   1.82 |   6.83 | Triple Jump
+ Helga Ármannsdóttir     | Female      |   1.61 |   2.07 | High Jump
+ Björn Rúnarsson         | Male        |   1.88 |   7.96 | 100 m dash
+ Kristján Benediktsson   | Male        |   1.75 |   6.65 | Long Jump
+ Geir Hulduson           | Male        |   1.71 |  11.94 | Triple Jump
+ Björn Benediktsson      | Male        |   1.84 |    7.5 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.78 |  13.48 | Shot Put
+ Jóna Jónsdóttir         | Female      |   1.72 |   5.89 | 100 m dash
+ Friðgeir Gunnarsson     | Male        |   1.87 |   3.95 | Long Jump
+ Kristján Geirsson       | Male        |   1.75 |   1.78 | High Jump
+ Jón Geirsson            | Male        |   1.82 |   14.7 | Shot Put
+ Ármann Geirsson         | Male        |   1.88 |   7.05 | 100 m dash
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   1.61 | High Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |  12.72 | Triple Jump
+ Hulda Björnsdóttir      | Female      |   1.74 |   6.38 | 100 m dash
+ Elva Gunnarsdóttir      | Female      |   1.69 |  12.08 | Shot Put
+ Gunnar Benediktsson     | Male        |   1.89 |   3.83 | Long Jump
+ Angela Elvudóttir       | Female      |   1.77 |    4.4 | Long Jump
+ Jóna Rúnarsdóttir       | Female      |   1.68 |   3.45 | Long Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |  15.05 | Shot Put
+ Geir Benediktsson       | Male        |   1.89 |   7.77 | Triple Jump
+ Gunnar Benediktsson     | Male        |   1.83 |    4.6 | Long Jump
+ Geir Benediktsson       | Male        |   1.89 |   8.28 | 100 m dash
+ Ármann Rúnarsson        | Male        |   1.77 |    1.2 | High Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |  10.03 | 100 m dash
+ Ármann Gunnarsson       | Male        |   1.88 |   9.56 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |   6.46 | Long Jump
+ Hulda Geirsdóttir       | Female      |   1.72 |   9.23 | 100 m dash
+ Hulda Geirsdóttir       | Female      |   1.72 |   9.68 | 100 m dash
+ Gunnar Benediktsson     | Male        |   1.89 |   9.68 | Triple Jump
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   1.96 | High Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |  10.48 | Triple Jump
+ Gunnar Benediktsson     | Male        |   1.83 |  10.43 | 100 m dash
+ Ármann Rúnarsson        | Male        |   1.77 |   5.58 | Long Jump
+ Geir Gunnarsson         | Male        |   1.83 |   8.95 | Shot Put
+ Rúnar Björgvinsson      | Male        |   1.88 |  10.13 | Triple Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   1.17 | High Jump
+ Gréta Kristjánsdóttir   | Female      |   1.62 |  10.65 | Triple Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   5.01 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |  12.32 | Shot Put
+ Eva Björgvinsdóttir     | Female      |   1.79 |   8.97 | Triple Jump
+ Ármann Geirsson         | Male        |   1.88 |   9.52 | 100 m dash
+ Rúnar Björnsson         | Male        |   1.71 |  13.07 | Triple Jump
+ Ármann Geirsson         | Male        |   1.77 |   4.16 | Long Jump
+ Sunneva Geirsdóttir     | Female      |   1.66 |   6.23 | Long Jump
+ Rúnar Kristjánsson      | Male        |   1.76 |   7.85 | Triple Jump
+ Gunnar Hulduson         | Male        |    1.8 |   4.54 | Long Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |  11.56 | Triple Jump
+ Rúnar Kristjánsson      | Male        |   1.71 |   1.67 | High Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |   9.29 | Shot Put
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   1.38 | High Jump
+ Elva Gunnarsdóttir      | Female      |   1.69 |   1.23 | High Jump
+ Björgvin Rúnarsson      | Male        |   1.73 |   4.06 | Long Jump
+ Jóna Benediktsdóttir    | Female      |   1.62 |  10.71 | Triple Jump
+ Kristján Geirsson       | Male        |   1.75 |   6.57 | 100 m dash
+ Angela Gunnarsdóttir    | Female      |   1.72 |      8 | 100 m dash
+ Gunnar Benediktsson     | Male        |   1.89 |   1.19 | High Jump
+ Gréta Jónsdóttir        | Female      |   1.73 |   1.68 | High Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   8.22 | Triple Jump
+ Björgvin Björnsson      | Male        |   1.82 |    1.9 | High Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |  14.75 | Shot Put
+ Geir Kristjánsson       | Male        |   1.73 |   8.07 | 100 m dash
+ Björgvin Ármannsson     | Male        |   1.72 |   4.84 | Long Jump
+ Gunnar Jónsson          | Male        |   1.81 |   5.91 | Long Jump
+ Gunnar Benediktsson     | Male        |   1.83 |   9.62 | Triple Jump
+ Rúnar Sunnevuson        | Male        |   1.75 |   9.71 | 100 m dash
+ Elva Kristjánsdóttir    | Female      |   1.64 |  12.26 | Triple Jump
+ Ása Rúnarsdóttir        | Female      |   1.63 |   1.86 | High Jump
+ Geir Rúnarsson          | Male        |   1.78 |  12.85 | Triple Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |   6.69 | 100 m dash
+ Angela Rúnarsdóttir     | Female      |   1.71 |   1.84 | High Jump
+ Geir Gunnarsson         | Male        |   1.83 |   6.51 | 100 m dash
+ Rúnar Kristjánsson      | Male        |   1.71 |  10.64 | Triple Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   9.88 | 100 m dash
+ Hulda Jónsdóttir        | Female      |   1.73 |  10.29 | Shot Put
+ Ása Evudóttir           | Female      |   1.73 |   6.38 | Long Jump
+ Ármann Geirsson         | Male        |   1.84 |  15.22 | Shot Put
+ Hulda Jónsdóttir        | Female      |   1.75 |   1.21 | High Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   4.23 | Long Jump
+ Gunnar Benediktsson     | Male        |   1.89 |  11.65 | Triple Jump
+ Björn Rúnarsson         | Male        |   1.81 |   1.92 | High Jump
+ Ármann Geirsson         | Male        |   1.84 |   7.26 | Triple Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   5.16 | Long Jump
+ Gunnar Kristjánsson     | Male        |   1.78 |  12.38 | Triple Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |    4.5 | Long Jump
+ Jón Kristjánsson        | Male        |   1.86 |   8.57 | Triple Jump
+ Gunnar Benediktsson     | Male        |   1.89 |   5.02 | Long Jump
+ Benedikt Helguson       | Male        |   1.88 |   7.73 | Triple Jump
+ Helga Ármannsdóttir     | Female      |   1.61 |  12.58 | Triple Jump
+ Geir Rúnarsson          | Male        |   1.78 |   14.3 | Shot Put
+ Hulda Jónsdóttir        | Female      |   1.73 |   1.67 | High Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.73 |   8.86 | Shot Put
+ Ása Geirsdóttir         | Female      |   1.75 |   9.82 | 100 m dash
+ Geir Rúnarsson          | Male        |   1.78 |  13.52 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.73 |   6.02 | Long Jump
+ Friðgeir Sunnevuson     | Male        |   1.73 |    5.6 | 100 m dash
+ Geir Hulduson           | Male        |   1.71 |  16.48 | Shot Put
+ Gréta Elvudóttir        | Female      |   1.76 |  11.77 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |   1.87 | High Jump
+ Gréta Huldudóttir       | Female      |   1.76 |   6.61 | 100 m dash
+ Angela Björgvinsdóttir  | Female      |   1.64 |   5.94 | 100 m dash
+ Geir Rúnarsson          | Male        |   1.78 |   6.03 | 100 m dash
+ Rúnar Geirsson          | Male        |   1.71 |  11.76 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |   8.43 | 100 m dash
+ Elva Kristjánsdóttir    | Female      |   1.64 |   1.32 | High Jump
+ Rúnar Kristjánsson      | Male        |   1.71 |   1.24 | High Jump
+ Rúnar Sunnevuson        | Male        |   1.75 |   8.22 | Triple Jump
+ Geir Gunnarsson         | Male        |   1.83 |   5.65 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.62 |  14.12 | Shot Put
+ Gunnar Ármannsson       | Male        |   1.85 |   1.55 | High Jump
+ Lovísa Gunnarsdóttir    | Female      |   1.74 |   9.91 | Shot Put
+ Kristján Björnsson      | Male        |   1.85 |   4.17 | Long Jump
+ Eva Geirsdóttir         | Female      |   1.61 |   1.75 | High Jump
+ Björn Ármannsson        | Male        |   1.86 |   9.48 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |   1.57 | High Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |   1.09 | High Jump
+ Gunnar Hulduson         | Male        |    1.8 |   7.64 | 100 m dash
+ Ármann Ármannsson       | Male        |   1.77 |  10.48 | Triple Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |  15.59 | Shot Put
+ Lovísa Benediktsdóttir  | Female      |   1.73 |   4.12 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   7.88 | Triple Jump
+ Björn Björnsson         | Male        |   1.88 |  10.37 | Shot Put
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   5.17 | Long Jump
+ Ása Evudóttir           | Female      |   1.73 |   1.33 | High Jump
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   1.81 | High Jump
+ Hulda Friðgeirsdóttir   | Female      |   1.74 |   5.68 | 100 m dash
+ Friðgeir Gunnarsson     | Male        |   1.78 |  14.38 | Shot Put
+ Björn Lovísuson         | Male        |   1.85 |  16.39 | Shot Put
+ Kristján Björnsson      | Male        |   1.87 |   9.94 | Triple Jump
+ Jóna Angeludóttir       | Female      |   1.69 |    1.1 | High Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   8.03 | Triple Jump
+ Sunneva Björnsdóttir    | Female      |    1.7 |    1.9 | High Jump
+ Björgvin Jónsson        | Male        |   1.86 |  10.81 | Triple Jump
+ Björgvin Friðgeirsson   | Male        |   1.75 |   1.53 | High Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   8.94 | Triple Jump
+ Björgvin Friðgeirsson   | Male        |   1.85 |   13.5 | Shot Put
+ Björgvin Rúnarsson      | Male        |   1.73 |  11.85 | Triple Jump
+ Jón Grétuson            | Male        |   1.89 |  10.95 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   7.55 | Triple Jump
+ Gunnar Friðgeirsson     | Male        |   1.73 |   9.74 | 100 m dash
+ Björn Geirsson          | Male        |   1.71 |   9.78 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   7.49 | Triple Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   7.53 | 100 m dash
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   5.68 | Long Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |    5.1 | Long Jump
+ Ása Geirsdóttir         | Female      |   1.76 |  10.38 | Triple Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   8.96 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |    1.9 | High Jump
+ Ása Friðgeirsdóttir     | Female      |   1.77 |   1.86 | High Jump
+ Björgvin Björnsson      | Male        |   1.82 |   12.3 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |  14.52 | Shot Put
+ Rúnar Sunnevuson        | Male        |   1.75 |    1.8 | High Jump
+ Hulda Benediktsdóttir   | Female      |   1.64 |  10.25 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |   6.73 | Long Jump
+ Friðgeir Geirsson       | Male        |   1.88 |    5.4 | Long Jump
+ Gréta Kristjánsdóttir   | Female      |   1.62 |   11.6 | Shot Put
+ Friðgeir Gunnarsson     | Male        |   1.87 |  12.76 | Shot Put
+ Jóna Rúnarsdóttir       | Female      |   1.68 |  11.15 | Triple Jump
+ Björn Jónuson           | Male        |   1.73 |   7.04 | Triple Jump
+ Gréta Jónsdóttir        | Female      |   1.73 |  15.09 | Shot Put
+ Björgvin Friðgeirsson   | Male        |   1.75 |   8.37 | 100 m dash
+ Geir Gunnarsson         | Male        |    1.7 |   1.69 | High Jump
+ Björgvin Jónsson        | Male        |   1.86 |   6.33 | Long Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |   1.71 | High Jump
+ Geir Jónsson            | Male        |   1.85 |  12.69 | Shot Put
+ Helga Björgvinsdóttir   | Female      |   1.73 |   7.89 | 100 m dash
+ Eva Björgvinsdóttir     | Female      |   1.79 |   9.02 | Triple Jump
+ Björn Björnsson         | Male        |   1.82 |  10.05 | Shot Put
+ Friðgeir Gunnarsson     | Male        |   1.78 |   8.89 | 100 m dash
+ Sunneva Helgudóttir     | Female      |   1.77 |  10.28 | Triple Jump
+ Björn Jónuson           | Male        |   1.73 |  14.28 | Shot Put
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   6.58 | 100 m dash
+ Gunnar Benediktsson     | Male        |   1.89 |   1.98 | High Jump
+ Gunnar Benediktsson     | Male        |   1.83 |  10.31 | Triple Jump
+ Gréta Elvudóttir        | Female      |   1.76 |     10 | Shot Put
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   1.85 | High Jump
+ Björn Björnsson         | Male        |   1.88 |   2.06 | High Jump
+ Hulda Jónsdóttir        | Female      |   1.73 |   1.78 | High Jump
+ Jóna Sunnevudóttir      | Female      |   1.79 |   9.66 | Triple Jump
+ Kristján Björnsson      | Male        |   1.85 |    1.9 | High Jump
+ Björgvin Ármannsson     | Male        |   1.72 |  16.38 | Shot Put
+ Ása Evudóttir           | Female      |   1.65 |   3.83 | Long Jump
+ Ása Kristjánsdóttir     | Female      |   1.64 |   4.57 | Long Jump
+ Gunnar Ármannsson       | Male        |   1.85 |  16.35 | Shot Put
+ Ármann Gunnarsson       | Male        |   1.88 |   5.25 | Long Jump
+ Rúnar Geirsson          | Male        |   1.71 |  11.33 | Shot Put
+ Angela Björgvinsdóttir  | Female      |   1.64 |   6.78 | 100 m dash
+ Geir Friðgeirsson       | Male        |   1.86 |   6.58 | 100 m dash
+ Sunneva Kristjánsdóttir | Female      |   1.74 |  11.75 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |   4.73 | Long Jump
+ Eva Geirsdóttir         | Female      |   1.61 |   8.55 | Shot Put
+ Hulda Evudóttir         | Female      |   1.77 |   6.59 | Long Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |  13.45 | Shot Put
+ Lovísa Benediktsdóttir  | Female      |   1.73 |   9.13 | Triple Jump
+ Sunneva Björnsdóttir    | Female      |    1.7 |    1.4 | High Jump
+ Kristján Benediktsson   | Male        |   1.89 |  12.69 | Triple Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |   6.29 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.62 |   8.87 | Shot Put
+ Kristján Benediktsson   | Male        |   1.75 |   8.79 | Triple Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   5.35 | Long Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |   1.09 | High Jump
+ Rúnar Björnsson         | Male        |   1.71 |   9.84 | Triple Jump
+ Kristján Gunnarsson     | Male        |   1.81 |   9.26 | Shot Put
+ Björn Geirsson          | Male        |   1.71 |   7.34 | Triple Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |   8.64 | 100 m dash
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   1.63 | High Jump
+ Björn Rúnarsson         | Male        |   1.88 |   2.03 | High Jump
+ Geir Hulduson           | Male        |   1.87 |  14.06 | Shot Put
+ Björn Geirsson          | Male        |   1.71 |   1.91 | High Jump
+ Hulda Geirsdóttir       | Female      |   1.72 |   8.89 | Triple Jump
+ Eva Geirsdóttir         | Female      |   1.61 |   1.61 | High Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   4.78 | Long Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   3.93 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |  12.51 | Triple Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   1.33 | High Jump
+ Sunneva Jónudóttir      | Female      |   1.77 |  15.58 | Shot Put
+ Jóna Björnsdóttir       | Female      |   1.69 |   9.97 | 100 m dash
+ Jón Kristjánsson        | Male        |   1.86 |   1.86 | High Jump
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   1.07 | High Jump
+ Ármann Geirsson         | Male        |   1.88 |   5.05 | Long Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |   8.02 | Triple Jump
+ Gunnar Jónsson          | Male        |   1.87 |   8.68 | 100 m dash
+ Elva Kristjánsdóttir    | Female      |   1.64 |   9.16 | Shot Put
+ Benedikt Benediktsson   | Male        |   1.81 |  10.29 | Triple Jump
+ Gunnar Ármannsson       | Male        |   1.85 |   7.71 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   1.76 | High Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |  11.51 | Triple Jump
+ Jón Kristjánsson        | Male        |   1.79 |   6.97 | Triple Jump
+ Björn Björnsson         | Male        |   1.82 |  11.87 | Triple Jump
+ Björn Björnsson         | Male        |   1.84 |   5.62 | Long Jump
+ Rúnar Geirsson          | Male        |   1.71 |  10.18 | Shot Put
+ Geir Jónsson            | Male        |   1.75 |   6.54 | 100 m dash
+ Elva Gunnarsdóttir      | Female      |   1.64 |   11.4 | Shot Put
+ Ása Rúnarsdóttir        | Female      |   1.63 |   7.56 | Triple Jump
+ Benedikt Helguson       | Male        |   1.88 |   6.43 | 100 m dash
+ Gunnar Kristjánsson     | Male        |   1.78 |    9.6 | 100 m dash
+ Björn Björnsson         | Male        |   1.82 |  16.49 | Shot Put
+ Jóna Jónsdóttir         | Female      |   1.72 |  14.45 | Shot Put
+ Björgvin Björnsson      | Male        |   1.82 |    6.9 | Triple Jump
+ Geir Jónsson            | Male        |   1.75 |   9.87 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.87 |  10.84 | Triple Jump
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   1.15 | High Jump
+ Helga Björnsdóttir      | Female      |   1.63 |  15.27 | Shot Put
+ Hulda Geirsdóttir       | Female      |   1.62 |      8 | Triple Jump
+ Ása Evudóttir           | Female      |   1.73 |    6.5 | 100 m dash
+ Ása Geirsdóttir         | Female      |   1.71 |  11.85 | Shot Put
+ Sunneva Benediktsdóttir | Female      |   1.66 |   1.86 | High Jump
+ Björgvin Friðgeirsson   | Male        |   1.75 |  13.06 | Shot Put
+ Hulda Evudóttir         | Female      |   1.77 |   5.38 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   2.06 | High Jump
+ Geir Friðgeirsson       | Male        |   1.83 |    9.2 | Shot Put
+ Angela Friðgeirsdóttir  | Female      |   1.79 |   4.25 | Long Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |   3.84 | Long Jump
+ Ármann Geirsson         | Male        |   1.84 |   6.03 | Long Jump
+ Ármann Ármannsson       | Male        |   1.77 |   1.82 | High Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |    9.2 | 100 m dash
+ Lovísa Helgudóttir      | Female      |   1.64 |   7.32 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.73 |   5.98 | Long Jump
+ Jón Ármannsson          | Male        |   1.78 |  10.05 | Triple Jump
+ Björn Jónuson           | Male        |   1.73 |   1.56 | High Jump
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   2.01 | High Jump
+ Kristján Björnsson      | Male        |   1.85 |  13.47 | Shot Put
+ Lovísa Benediktsdóttir  | Female      |   1.72 |   1.89 | High Jump
+ Ármann Geirsson         | Male        |   1.77 |  10.47 | Triple Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |  11.21 | Triple Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |  11.06 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.64 |   4.75 | Long Jump
+ Ármann Geirsson         | Male        |   1.88 |   7.33 | 100 m dash
+ Björn Jónuson           | Male        |   1.73 |   1.59 | High Jump
+ Gréta Kristjánsdóttir   | Female      |   1.62 |   1.14 | High Jump
+ Kristján Gunnarsson     | Male        |   1.81 |  13.03 | Shot Put
+ Ása Friðgeirsdóttir     | Female      |   1.77 |   5.55 | Long Jump
+ Kristján Evuson         | Male        |   1.84 |   4.36 | Long Jump
+ Jóna Angeludóttir       | Female      |   1.69 |  14.04 | Shot Put
+ Helga Ármannsdóttir     | Female      |   1.61 |  10.15 | Triple Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   7.77 | Triple Jump
+ Ása Kristjánsdóttir     | Female      |   1.64 |   4.15 | Long Jump
+ Björn Geirsson          | Male        |   1.71 |   1.16 | High Jump
+ Geir Kristjánsson       | Male        |   1.73 |   1.69 | High Jump
+ Hulda Geirsdóttir       | Female      |   1.72 |   5.92 | Long Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |   3.91 | Long Jump
+ Rúnar Benediktsson      | Male        |   1.71 |  13.06 | Shot Put
+ Rúnar Rúnarsson         | Male        |   1.85 |  12.17 | Shot Put
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   6.02 | Long Jump
+ Geir Kristjánsson       | Male        |   1.73 |   4.12 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |      9 | Shot Put
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   4.93 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |  10.87 | Triple Jump
+ Ármann Gunnarsson       | Male        |   1.88 |   5.66 | Long Jump
+ Ármann Ármannsson       | Male        |   1.77 |  13.58 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |   6.12 | Long Jump
+ Jón Rúnarsson           | Male        |   1.75 |   9.09 | Triple Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   5.86 | 100 m dash
+ Angela Gunnarsdóttir    | Female      |   1.72 |  12.67 | Shot Put
+ Hulda Geirsdóttir       | Female      |   1.72 |   8.42 | 100 m dash
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |  14.82 | Shot Put
+ Hulda Jónsdóttir        | Female      |   1.75 |   7.43 | Triple Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   2.09 | High Jump
+ Angela Rúnarsdóttir     | Female      |   1.71 |  12.18 | Triple Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   3.86 | Long Jump
+ Geir Grétuson           | Male        |   1.88 |  11.28 | Triple Jump
+ Gunnar Ármannsson       | Male        |   1.85 |  10.08 | 100 m dash
+ Björn Jónuson           | Male        |   1.73 |   7.84 | 100 m dash
+ Kristján Benediktsson   | Male        |   1.75 |   5.05 | Long Jump
+ Ármann Gunnarsson       | Male        |   1.86 |  11.09 | Triple Jump
+ Ármann Ármannsson       | Male        |   1.77 |   8.73 | 100 m dash
+ Ármann Geirsson         | Male        |   1.77 |   5.36 | 100 m dash
+ Sunneva Björgvinsdóttir | Female      |   1.72 |  12.46 | Triple Jump
+ Kristján Evuson         | Male        |   1.84 |   1.62 | High Jump
+ Geir Ármannsson         | Male        |   1.81 |   8.74 | Triple Jump
+ Kristján Geirsson       | Male        |   1.75 |   6.78 | Long Jump
+ Hulda Geirsdóttir       | Female      |   1.62 |   5.79 | Long Jump
+ Gréta Elvudóttir        | Female      |   1.61 |   5.38 | Long Jump
+ Björn Benediktsson      | Male        |   1.84 |   6.97 | 100 m dash
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   7.64 | 100 m dash
+ Helga Elvudóttir        | Female      |   1.68 |   1.76 | High Jump
+ Rúnar Björnsson         | Male        |   1.71 |   2.05 | High Jump
+ Benedikt Ármannsson     | Male        |   1.88 |  14.88 | Shot Put
+ Geir Gunnarsson         | Male        |   1.83 |   1.93 | High Jump
+ Ása Evudóttir           | Female      |   1.73 |   3.41 | Long Jump
+ Ása Friðgeirsdóttir     | Female      |   1.75 |  10.22 | 100 m dash
+ Friðgeir Rúnarsson      | Male        |   1.74 |  12.61 | Triple Jump
+ Kristján Geirsson       | Male        |   1.75 |  11.85 | Triple Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |   5.96 | Long Jump
+ Ármann Geirsson         | Male        |   1.88 |   5.52 | Long Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |   8.68 | Triple Jump
+ Björn Björnsson         | Male        |   1.88 |   5.51 | Long Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |  10.03 | Triple Jump
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   4.48 | Long Jump
+ Ármann Rúnarsson        | Male        |   1.78 |   7.04 | 100 m dash
+ Friðgeir Gunnarsson     | Male        |   1.87 |   4.84 | Long Jump
+ Elva Kristjánsdóttir    | Female      |   1.64 |   1.86 | High Jump
+ Björn Benediktsson      | Male        |   1.84 |   8.08 | Triple Jump
+ Kristján Evuson         | Male        |   1.84 |   8.45 | Shot Put
+ Björn Lovísuson         | Male        |   1.85 |   8.65 | 100 m dash
+ Rúnar Kristjánsson      | Male        |   1.71 |  13.09 | Triple Jump
+ Kristján Björnsson      | Male        |   1.85 |   3.43 | Long Jump
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   9.48 | 100 m dash
+ Ása Kristjánsdóttir     | Female      |   1.64 |   7.17 | 100 m dash
+ Elva Rúnarsdóttir       | Female      |   1.67 |  11.26 | Triple Jump
+ Gunnar Kristjánsson     | Male        |   1.78 |   9.22 | 100 m dash
+ Sunneva Jónsdóttir      | Female      |   1.61 |   1.19 | High Jump
+ Lovísa Benediktsdóttir  | Female      |   1.72 |  11.19 | Triple Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |   6.62 | Long Jump
+ Hulda Geirsdóttir       | Female      |   1.62 |   1.61 | High Jump
+ Geir Rúnarsson          | Male        |   1.78 |   3.47 | Long Jump
+ Björn Björnsson         | Male        |   1.88 |   6.75 | Triple Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |   9.44 | 100 m dash
+ Helga Ármannsdóttir     | Female      |   1.61 |   6.75 | 100 m dash
+ Lovísa Kristjánsdóttir  | Female      |   1.62 |   7.48 | 100 m dash
+ Helga Björgvinsdóttir   | Female      |   1.73 |   8.73 | Shot Put
+ Hulda Geirsdóttir       | Female      |   1.72 |   8.53 | 100 m dash
+ Elva Gunnarsdóttir      | Female      |   1.64 |   8.22 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.87 |   8.99 | Triple Jump
+ Gréta Kristjánsdóttir   | Female      |   1.67 |  11.41 | Shot Put
+ Ása Evudóttir           | Female      |   1.65 |  10.23 | Shot Put
+ Ármann Geirsson         | Male        |   1.77 |   5.53 | Long Jump
+ Kristján Evuson         | Male        |   1.84 |   6.75 | 100 m dash
+ Ármann Geirsson         | Male        |   1.88 |  13.02 | Triple Jump
+ Elva Rúnarsdóttir       | Female      |   1.67 |   5.84 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   3.52 | Long Jump
+ Geir Kristjánsson       | Male        |   1.73 |  13.15 | Shot Put
+ Helga Elvudóttir        | Female      |   1.68 |  12.88 | Shot Put
+ Jóna Angeludóttir       | Female      |   1.69 |   3.97 | Long Jump
+ Elva Rúnarsdóttir       | Female      |   1.67 |   9.07 | Triple Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   1.64 | High Jump
+ Geir Kristjánsson       | Male        |   1.73 |   7.43 | Triple Jump
+ Lovísa Benediktsdóttir  | Female      |   1.72 |   1.41 | High Jump
+ Björn Lovísuson         | Male        |   1.85 |   1.72 | High Jump
+ Björn Björnsson         | Male        |   1.88 |  10.01 | 100 m dash
+ Ása Rúnarsdóttir        | Female      |   1.63 |  10.14 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |   1.65 | High Jump
+ Jón Kristjánsson        | Male        |   1.79 |   6.43 | Long Jump
+ Björgvin Jónsson        | Male        |   1.86 |      7 | 100 m dash
+ Hulda Evudóttir         | Female      |   1.77 |  10.26 | Triple Jump
+ Björn Lovísuson         | Male        |   1.85 |   1.19 | High Jump
+ Hulda Jónsdóttir        | Female      |   1.73 |   8.15 | 100 m dash
+ Ása Rúnarsdóttir        | Female      |   1.63 |   4.37 | Long Jump
+ Hulda Evudóttir         | Female      |   1.77 |   1.17 | High Jump
+ Helga Ármannsdóttir     | Female      |   1.61 |  15.22 | Shot Put
+ Hulda Jónsdóttir        | Female      |   1.73 |   1.08 | High Jump
+ Ása Geirsdóttir         | Female      |   1.76 |  12.12 | Shot Put
+ Sunneva Helgudóttir     | Female      |   1.77 |   7.87 | 100 m dash
+ Björgvin Geirsson       | Male        |   1.82 |  11.86 | Triple Jump
+ Ása Evudóttir           | Female      |   1.73 |   5.18 | Long Jump
+ Björn Angeluson         | Male        |   1.84 |  11.27 | Triple Jump
+ Gunnar Jónsson          | Male        |   1.81 |   3.85 | Long Jump
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   1.87 | High Jump
+ Björn Björnsson         | Male        |   1.82 |   6.11 | 100 m dash
+ Ármann Rúnarsson        | Male        |   1.78 |   6.71 | Long Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   7.18 | 100 m dash
+ Björgvin Ármannsson     | Male        |   1.72 |   9.83 | 100 m dash
+ Jóna Rúnarsdóttir       | Female      |   1.68 |   1.37 | High Jump
+ Jón Grétuson            | Male        |   1.89 |  11.08 | Shot Put
+ Ása Evudóttir           | Female      |   1.65 |  13.71 | Shot Put
+ Friðgeir Gunnarsson     | Male        |   1.78 |   1.28 | High Jump
+ Jón Kristjánsson        | Male        |   1.79 |  15.49 | Shot Put
+ Jón Geirsson            | Male        |   1.82 |   9.28 | Triple Jump
+ Ármann Ármannsson       | Male        |   1.77 |   1.86 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |   1.61 | High Jump
+ Elva Gunnarsdóttir      | Female      |   1.64 |   3.99 | Long Jump
+ Rúnar Geirsson          | Male        |   1.71 |  13.84 | Shot Put
+ Ármann Geirsson         | Male        |   1.77 |  12.09 | Triple Jump
+ Hulda Friðgeirsdóttir   | Female      |   1.74 |   4.32 | Long Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |  16.46 | Shot Put
+ Benedikt Helguson       | Male        |   1.88 |   5.84 | Long Jump
+ Björn Björnsson         | Male        |   1.82 |   7.77 | 100 m dash
+ Björn Geirsson          | Male        |   1.71 |   2.01 | High Jump
+ Ása Friðgeirsdóttir     | Female      |   1.75 |  10.31 | Triple Jump
+ Ármann Geirsson         | Male        |   1.77 |  12.58 | Shot Put
+ Ása Evudóttir           | Female      |   1.73 |   7.68 | Triple Jump
+ Ármann Ármannsson       | Male        |   1.77 |  14.86 | Shot Put
+ Gunnar Benediktsson     | Male        |   1.89 |  10.14 | Shot Put
+ Björn Lovísuson         | Male        |   1.85 |  13.18 | Shot Put
+ Jón Sunnevuson          | Male        |   1.78 |   7.79 | Triple Jump
+ Gunnar Benediktsson     | Male        |   1.83 |   3.53 | Long Jump
+ Björgvin Björnsson      | Male        |   1.82 |   1.12 | High Jump
+ Björn Benediktsson      | Male        |   1.84 |   5.11 | Long Jump
+ Sunneva Björnsdóttir    | Female      |    1.7 |  10.21 | Shot Put
+ Gunnar Benediktsson     | Male        |   1.89 |   5.57 | 100 m dash
+ Lovísa Benediktsdóttir  | Female      |   1.72 |  10.58 | Triple Jump
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   4.28 | Long Jump
+ Gréta Kristjánsdóttir   | Female      |   1.79 |   9.82 | Triple Jump
+ Björn Rúnarsson         | Male        |   1.88 |   12.8 | Triple Jump
+ Björn Björnsson         | Male        |   1.84 |   9.65 | Shot Put
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   8.95 | 100 m dash
+ Björn Friðgeirsson      | Male        |   1.71 |  12.22 | Shot Put
+ Björn Angeluson         | Male        |   1.84 |   5.89 | Long Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   3.45 | Long Jump
+ Björn Kristjánsson      | Male        |    1.8 |   1.97 | High Jump
+ Sunneva Kristjánsdóttir | Female      |   1.74 |  11.28 | Triple Jump
+ Hulda Björnsdóttir      | Female      |   1.74 |   5.92 | Long Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   7.73 | Triple Jump
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   9.51 | Triple Jump
+ Sunneva Björnsdóttir    | Female      |    1.7 |   10.3 | Triple Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |  13.43 | Shot Put
+ Jóna Björnsdóttir       | Female      |   1.69 |   13.8 | Shot Put
+ Björn Angeluson         | Male        |   1.84 |   9.12 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.62 |  16.24 | Shot Put
+ Geir Hulduson           | Male        |   1.71 |   1.27 | High Jump
+ Hulda Evudóttir         | Female      |   1.77 |  11.81 | Triple Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |   9.03 | 100 m dash
+ Sunneva Friðgeirsdóttir | Female      |   1.73 |   7.16 | Triple Jump
+ Geir Ármannsson         | Male        |   1.81 |  12.53 | Shot Put
+ Jón Sunnevuson          | Male        |   1.78 |   5.39 | Long Jump
+ Björn Björnsson         | Male        |   1.77 |   4.69 | Long Jump
+ Björn Björnsson         | Male        |   1.82 |    5.7 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   3.75 | Long Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   7.35 | 100 m dash
+ Geir Grétuson           | Male        |   1.88 |  10.93 | Shot Put
+ Björn Angeluson         | Male        |   1.84 |   6.45 | Long Jump
+ Geir Kristjánsson       | Male        |   1.73 |   7.28 | 100 m dash
+ Eva Gunnarsdóttir       | Female      |   1.61 |  14.85 | Shot Put
+ Lovísa Kristjánsdóttir  | Female      |   1.66 |   1.25 | High Jump
+ Benedikt Helguson       | Male        |   1.88 |  15.58 | Shot Put
+ Lovísa Benediktsdóttir  | Female      |   1.73 |   5.82 | 100 m dash
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |   1.38 | High Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |   4.89 | Long Jump
+ Jóna Jónsdóttir         | Female      |   1.72 |   5.61 | 100 m dash
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   9.67 | Triple Jump
+ Geir Benediktsson       | Male        |   1.89 |  10.09 | Shot Put
+ Björn Jónuson           | Male        |   1.73 |    9.3 | 100 m dash
+ Hulda Elvudóttir        | Female      |   1.61 |  13.26 | Shot Put
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   8.92 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.87 |  13.64 | Shot Put
+ Björn Friðgeirsson      | Male        |   1.71 |  15.26 | Shot Put
+ Jóna Angeludóttir       | Female      |   1.69 |  13.19 | Shot Put
+ Ása Jónsdóttir          | Female      |    1.7 |   6.45 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   9.47 | Triple Jump
+ Hulda Elvudóttir        | Female      |   1.61 |   1.98 | High Jump
+ Gunnar Benediktsson     | Male        |   1.83 |   9.04 | Triple Jump
+ Björn Björnsson         | Male        |   1.84 |  12.99 | Triple Jump
+ Björgvin Björnsson      | Male        |   1.82 |    9.5 | Shot Put
+ Hulda Evudóttir         | Female      |   1.77 |    8.5 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.73 |   1.61 | High Jump
+ Rúnar Benediktsson      | Male        |   1.71 |  10.64 | Triple Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   1.97 | High Jump
+ Helga Björgvinsdóttir   | Female      |   1.73 |   9.16 | Triple Jump
+ Hulda Evudóttir         | Female      |   1.77 |   1.52 | High Jump
+ Geir Hulduson           | Male        |   1.71 |   7.31 | Triple Jump
+ Björn Björnsson         | Male        |   1.77 |   4.61 | Long Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   8.46 | Triple Jump
+ Ása Friðgeirsdóttir     | Female      |   1.77 |   6.37 | Long Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |   1.39 | High Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |   1.87 | High Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   7.46 | 100 m dash
+ Benedikt Helguson       | Male        |   1.88 |   1.19 | High Jump
+ Eva Björgvinsdóttir     | Female      |   1.79 |   2.07 | High Jump
+ Benedikt Helguson       | Male        |   1.88 |  10.61 | Triple Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   8.89 | 100 m dash
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   1.46 | High Jump
+ Ása Friðgeirsdóttir     | Female      |   1.75 |   6.56 | Long Jump
+ Geir Hulduson           | Male        |   1.71 |  15.23 | Shot Put
+ Geir Björnsson          | Male        |   1.72 |  10.27 | Triple Jump
+ Kristján Björnsson      | Male        |   1.87 |  15.71 | Shot Put
+ Helga Björgvinsdóttir   | Female      |   1.73 |   5.72 | 100 m dash
+ Björn Björnsson         | Male        |   1.84 |   14.2 | Shot Put
+ Gunnar Jónsson          | Male        |   1.81 |   1.85 | High Jump
+ Lovísa Gunnarsdóttir    | Female      |   1.74 |  11.32 | Triple Jump
+ Helga Elvudóttir        | Female      |   1.68 |   1.94 | High Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   7.51 | 100 m dash
+ Gréta Elvudóttir        | Female      |   1.76 |  11.06 | Shot Put
+ Kristján Gunnarsson     | Male        |   1.81 |   1.38 | High Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   1.07 | High Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   6.47 | Long Jump
+ Hulda Jónsdóttir        | Female      |   1.73 |   8.08 | 100 m dash
+ Gunnar Hulduson         | Male        |    1.8 |   8.13 | 100 m dash
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |    8.6 | 100 m dash
+ Geir Friðgeirsson       | Male        |   1.73 |   8.44 | 100 m dash
+ Geir Gunnarsson         | Male        |   1.83 |   1.85 | High Jump
+ Helga Elvudóttir        | Female      |   1.68 |   1.61 | High Jump
+ Hulda Geirsdóttir       | Female      |   1.72 |   1.14 | High Jump
+ Kristján Evuson         | Male        |   1.84 |  12.45 | Shot Put
+ Geir Kristjánsson       | Male        |   1.73 |   1.95 | High Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   4.63 | Long Jump
+ Ármann Gunnarsson       | Male        |   1.88 |  12.21 | Triple Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   8.11 | Triple Jump
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   5.29 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |  10.82 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |   3.63 | Long Jump
+ Geir Benediktsson       | Male        |   1.89 |  12.67 | Triple Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   1.88 | High Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   8.83 | 100 m dash
+ Ása Kristjánsdóttir     | Female      |   1.64 |   5.44 | Long Jump
+ Geir Jónsson            | Male        |   1.85 |   7.76 | Triple Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   1.75 | High Jump
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   8.81 | 100 m dash
+ Björgvin Ármannsson     | Male        |   1.72 |  12.21 | Shot Put
+ Björn Rúnarsson         | Male        |   1.81 |   6.33 | Long Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |    1.4 | High Jump
+ Geir Rúnarsson          | Male        |   1.78 |  10.45 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.69 |  12.12 | Shot Put
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |  11.66 | Shot Put
+ Ása Rúnarsdóttir        | Female      |   1.63 |   7.15 | 100 m dash
+ Geir Hulduson           | Male        |   1.71 |   4.43 | Long Jump
+ Björgvin Friðgeirsson   | Male        |   1.75 |   5.81 | Long Jump
+ Kristján Benediktsson   | Male        |   1.75 |   1.29 | High Jump
+ Björn Rúnarsson         | Male        |   1.88 |  14.79 | Shot Put
+ Björn Lovísuson         | Male        |   1.85 |   5.43 | 100 m dash
+ Björn Geirsson          | Male        |   1.71 |   8.65 | Shot Put
+ Jóna Angeludóttir       | Female      |   1.69 |  12.68 | Triple Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   1.59 | High Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   1.38 | High Jump
+ Björn Friðgeirsson      | Male        |   1.71 |  11.36 | Shot Put
+ Geir Hulduson           | Male        |   1.71 |   5.91 | 100 m dash
+ Ása Evudóttir           | Female      |   1.65 |  13.57 | Shot Put
+ Björn Björnsson         | Male        |   1.82 |  10.23 | Shot Put
+ Geir Gunnarsson         | Male        |   1.83 |   7.29 | Triple Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   1.76 | High Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   3.86 | Long Jump
+ Rúnar Geirsson          | Male        |   1.71 |   5.42 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.78 |   1.44 | High Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |   7.35 | Triple Jump
+ Ása Evudóttir           | Female      |   1.73 |   3.57 | Long Jump
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   5.98 | Long Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |    5.2 | Long Jump
+ Angela Rúnarsdóttir     | Female      |   1.71 |  12.05 | Shot Put
+ Björn Geirsson          | Male        |   1.84 |   1.09 | High Jump
+ Ármann Ármannsson       | Male        |   1.77 |  13.02 | Triple Jump
+ Ása Geirsdóttir         | Female      |   1.75 |    4.1 | Long Jump
+ Helga Ármannsdóttir     | Female      |   1.61 |   5.93 | Long Jump
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   4.51 | Long Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |   1.66 | High Jump
+ Sunneva Kristjánsdóttir | Female      |   1.74 |  12.73 | Shot Put
+ Sunneva Björnsdóttir    | Female      |   1.71 |  11.32 | Triple Jump
+ Björn Ármannsson        | Male        |   1.86 |   6.27 | Long Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   4.72 | Long Jump
+ Björn Björnsson         | Male        |   1.82 |    1.4 | High Jump
+ Helga Björgvinsdóttir   | Female      |   1.73 |  15.77 | Shot Put
+ Sunneva Helgudóttir     | Female      |   1.77 |   7.26 | Triple Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |  14.35 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.64 |   9.18 | Triple Jump
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   7.09 | Triple Jump
+ Kristján Björnsson      | Male        |   1.85 |  11.28 | Triple Jump
+ Björgvin Jónsson        | Male        |   1.86 |    5.8 | 100 m dash
+ Geir Grétuson           | Male        |   1.88 |  14.22 | Shot Put
+ Ármann Geirsson         | Male        |   1.88 |    8.5 | Triple Jump
+ Björn Lovísuson         | Male        |   1.85 |  14.34 | Shot Put
+ Björn Björnsson         | Male        |   1.88 |   4.77 | Long Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   10.1 | Triple Jump
+ Geir Grétuson           | Male        |   1.88 |    5.6 | Long Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |   4.79 | Long Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |  16.56 | Shot Put
+ Geir Björnsson          | Male        |   1.72 |   1.58 | High Jump
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   5.47 | Long Jump
+ Björgvin Björnsson      | Male        |   1.82 |   5.48 | Long Jump
+ Ármann Geirsson         | Male        |   1.88 |  13.25 | Shot Put
+ Björn Rúnarsson         | Male        |   1.88 |   8.46 | Triple Jump
+ Geir Rúnarsson          | Male        |   1.78 |   1.45 | High Jump
+ Gréta Jónsdóttir        | Female      |   1.73 |   9.69 | 100 m dash
+ Geir Benediktsson       | Male        |   1.89 |  14.92 | Shot Put
+ Angela Elvudóttir       | Female      |   1.77 |   1.13 | High Jump
+ Jóna Angeludóttir       | Female      |   1.69 |   3.63 | Long Jump
+ Elva Rúnarsdóttir       | Female      |   1.67 |  12.92 | Shot Put
+ Kristján Benediktsson   | Male        |   1.89 |   1.57 | High Jump
+ Rúnar Kristjánsson      | Male        |   1.76 |  13.02 | Triple Jump
+ Gunnar Friðgeirsson     | Male        |   1.73 |  12.55 | Shot Put
+ Gréta Kristjánsdóttir   | Female      |   1.62 |   6.01 | Long Jump
+ Ármann Rúnarsson        | Male        |   1.77 |   8.64 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |   8.09 | Triple Jump
+ Ása Evudóttir           | Female      |   1.65 |  11.01 | Triple Jump
+ Jón Ármannsson          | Male        |   1.78 |   6.68 | Long Jump
+ Rúnar Kristjánsson      | Male        |   1.76 |  16.03 | Shot Put
+ Geir Benediktsson       | Male        |   1.89 |   1.28 | High Jump
+ Hulda Benediktsdóttir   | Female      |   1.64 |   8.63 | Shot Put
+ Angela Gunnarsdóttir    | Female      |   1.72 |  11.03 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |   5.55 | Long Jump
+ Björgvin Jónsson        | Male        |   1.86 |   5.56 | Long Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |   2.08 | High Jump
+ Jón Kristjánsson        | Male        |   1.79 |  16.32 | Shot Put
+ Sunneva Benediktsdóttir | Female      |   1.66 |   4.12 | Long Jump
+ Björn Björnsson         | Male        |   1.84 |   5.86 | Long Jump
+ Jón Ármannsson          | Male        |   1.78 |   8.33 | 100 m dash
+ Geir Hulduson           | Male        |   1.87 |   9.89 | 100 m dash
+ Elva Gunnarsdóttir      | Female      |   1.69 |   6.39 | Long Jump
+ Lovísa Kristjánsdóttir  | Female      |   1.66 |   6.51 | Long Jump
+ Gunnar Kristjánsson     | Male        |   1.78 |   7.56 | 100 m dash
+ Björn Geirsson          | Male        |   1.84 |  15.48 | Shot Put
+ Ása Geirsdóttir         | Female      |   1.76 |   5.48 | Long Jump
+ Björgvin Friðgeirsson   | Male        |   1.85 |   3.56 | Long Jump
+ Björgvin Friðgeirsson   | Male        |   1.85 |   8.48 | 100 m dash
+ Geir Björnsson          | Male        |   1.72 |   1.89 | High Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   2.06 | High Jump
+ Ármann Rúnarsson        | Male        |   1.77 |    6.7 | Triple Jump
+ Gréta Kristjánsdóttir   | Female      |   1.67 |    1.4 | High Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |   11.4 | Triple Jump
+ Geir Hulduson           | Male        |   1.71 |   7.38 | 100 m dash
+ Geir Benediktsson       | Male        |   1.89 |    1.7 | High Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |   5.37 | 100 m dash
+ Björn Jónuson           | Male        |   1.73 |   5.38 | Long Jump
+ Ása Evudóttir           | Female      |   1.65 |   1.79 | High Jump
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   4.19 | Long Jump
+ Ása Evudóttir           | Female      |   1.73 |   1.53 | High Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |   8.56 | 100 m dash
+ Angela Björgvinsdóttir  | Female      |   1.64 |  14.68 | Shot Put
+ Geir Grétuson           | Male        |   1.88 |   8.42 | 100 m dash
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   1.64 | High Jump
+ Rúnar Sunnevuson        | Male        |   1.75 |    3.9 | Long Jump
+ Kristján Benediktsson   | Male        |   1.75 |  16.42 | Shot Put
+ Rúnar Benediktsson      | Male        |   1.71 |   9.57 | 100 m dash
+ Geir Jónsson            | Male        |   1.85 |   8.46 | 100 m dash
+ Rúnar Sunnevuson        | Male        |   1.75 |   8.68 | 100 m dash
+ Jón Grétuson            | Male        |   1.89 |   9.85 | Triple Jump
+ Geir Gunnarsson         | Male        |   1.83 |   6.24 | 100 m dash
+ Angela Gunnarsdóttir    | Female      |   1.72 |   9.91 | Triple Jump
+ Björn Björnsson         | Male        |   1.84 |  13.15 | Triple Jump
+ Kristján Björnsson      | Male        |   1.85 |   6.09 | 100 m dash
+ Friðgeir Rúnarsson      | Male        |   1.74 |   9.58 | 100 m dash
+ Gréta Jónsdóttir        | Female      |   1.73 |   7.88 | 100 m dash
+ Gréta Elvudóttir        | Female      |   1.76 |     10 | Triple Jump
+ Ármann Ármannsson       | Male        |   1.77 |  14.22 | Shot Put
+ Björgvin Jónsson        | Male        |   1.86 |  12.47 | Triple Jump
+ Björn Björnsson         | Male        |   1.84 |   5.62 | Long Jump
+ Geir Hulduson           | Male        |   1.71 |  14.58 | Shot Put
+ Hulda Evudóttir         | Female      |   1.77 |  15.04 | Shot Put
+ Rúnar Sunnevuson        | Male        |   1.75 |   1.73 | High Jump
+ Jón Ármannsson          | Male        |   1.78 |  10.19 | 100 m dash
+ Friðgeir Rúnarsson      | Male        |   1.74 |   5.75 | 100 m dash
+ Kristján Evuson         | Male        |   1.84 |    9.3 | 100 m dash
+ Elva Gunnarsdóttir      | Female      |   1.64 |   3.69 | Long Jump
+ Elva Kristjánsdóttir    | Female      |   1.64 |  11.28 | Triple Jump
+ Hulda Geirsdóttir       | Female      |   1.72 |   3.87 | Long Jump
+ Benedikt Helguson       | Male        |   1.88 |   9.95 | 100 m dash
+ Gréta Huldudóttir       | Female      |   1.76 |  16.27 | Shot Put
+ Rúnar Björnsson         | Male        |   1.71 |   6.68 | Long Jump
+ Jóna Jónsdóttir         | Female      |   1.72 |   8.64 | Triple Jump
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   3.41 | Long Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |   3.94 | Long Jump
+ Björn Lovísuson         | Male        |   1.85 |   9.88 | Triple Jump
+ Ása Rúnarsdóttir        | Female      |   1.63 |   1.85 | High Jump
+ Ármann Geirsson         | Male        |   1.77 |  13.36 | Shot Put
+ Benedikt Helguson       | Male        |   1.88 |   7.21 | 100 m dash
+ Kristján Gunnarsson     | Male        |   1.81 |   6.21 | 100 m dash
+ Ármann Rúnarsson        | Male        |   1.77 |  12.46 | Triple Jump
+ Gréta Kristjánsdóttir   | Female      |   1.62 |  14.66 | Shot Put
+ Ármann Rúnarsson        | Male        |   1.77 |   1.58 | High Jump
+ Kristján Björnsson      | Male        |   1.85 |  14.93 | Shot Put
+ Angela Gunnarsdóttir    | Female      |   1.72 |   6.33 | 100 m dash
+ Björgvin Friðgeirsson   | Male        |   1.85 |   6.67 | Triple Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |   1.82 | High Jump
+ Geir Ármannsson         | Male        |   1.81 |   4.01 | Long Jump
+ Angela Geirsdóttir      | Female      |   1.76 |   3.64 | Long Jump
+ Gréta Kristjánsdóttir   | Female      |   1.79 |   6.51 | Long Jump
+ Lovísa Benediktsdóttir  | Female      |   1.73 |   3.55 | Long Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |   5.11 | Long Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |  10.06 | 100 m dash
+ Elva Kristjánsdóttir    | Female      |   1.64 |  11.56 | Shot Put
+ Jón Kristjánsson        | Male        |   1.79 |   1.84 | High Jump
+ Björn Benediktsson      | Male        |   1.84 |    1.8 | High Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   1.42 | High Jump
+ Jóna Jónsdóttir         | Female      |   1.72 |    8.1 | Triple Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   1.44 | High Jump
+ Benedikt Benediktsson   | Male        |   1.81 |  12.82 | Triple Jump
+ Hulda Evudóttir         | Female      |   1.77 |  12.32 | Triple Jump
+ Sunneva Benediktsdóttir | Female      |   1.66 |   1.66 | High Jump
+ Björn Friðgeirsson      | Male        |   1.71 |   9.96 | Shot Put
+ Hulda Friðgeirsdóttir   | Female      |   1.74 |   5.92 | Long Jump
+ Ármann Ármannsson       | Male        |   1.77 |   5.36 | 100 m dash
+ Ármann Rúnarsson        | Male        |   1.77 |  10.38 | Shot Put
+ Elva Benediktsdóttir    | Female      |   1.78 |   8.27 | Triple Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   4.24 | Long Jump
+ Helga Elvudóttir        | Female      |   1.68 |   4.31 | Long Jump
+ Björn Geirsson          | Male        |   1.71 |   4.17 | Long Jump
+ Rúnar Kristjánsson      | Male        |   1.71 |   9.18 | Shot Put
+ Björgvin Geirsson       | Male        |   1.82 |   6.87 | Triple Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |  15.26 | Shot Put
+ Hulda Geirsdóttir       | Female      |   1.72 |  14.57 | Shot Put
+ Gunnar Benediktsson     | Male        |   1.89 |  14.99 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |   6.15 | 100 m dash
+ Sunneva Benediktsdóttir | Female      |   1.66 |   3.67 | Long Jump
+ Rúnar Sunnevuson        | Male        |   1.75 |  15.59 | Shot Put
+ Rúnar Björgvinsson      | Male        |   1.88 |   1.83 | High Jump
+ Björn Björnsson         | Male        |   1.88 |   1.12 | High Jump
+ Geir Benediktsson       | Male        |   1.89 |     10 | 100 m dash
+ Elva Gunnarsdóttir      | Female      |   1.64 |   1.81 | High Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   1.48 | High Jump
+ Gréta Huldudóttir       | Female      |   1.76 |   7.91 | Triple Jump
+ Benedikt Helguson       | Male        |   1.88 |   5.63 | 100 m dash
+ Eva Björgvinsdóttir     | Female      |   1.79 |   7.68 | Triple Jump
+ Björgvin Jónsson        | Male        |   1.86 |   9.93 | Shot Put
+ Björn Jónuson           | Male        |   1.73 |   5.91 | Long Jump
+ Ármann Rúnarsson        | Male        |   1.77 |   1.55 | High Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |   5.82 | Long Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   4.51 | Long Jump
+ Elva Kristjánsdóttir    | Female      |   1.64 |   1.28 | High Jump
+ Benedikt Helguson       | Male        |   1.88 |   1.79 | High Jump
+ Geir Grétuson           | Male        |   1.88 |  13.04 | Triple Jump
+ Björn Geirsson          | Male        |   1.84 |   7.83 | 100 m dash
+ Geir Björnsson          | Male        |   1.72 |  10.28 | Triple Jump
+ Gréta Kristjánsdóttir   | Female      |   1.67 |   1.23 | High Jump
+ Gunnar Hulduson         | Male        |    1.8 |  11.11 | Triple Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |   4.37 | Long Jump
+ Björn Friðgeirsson      | Male        |   1.71 |  11.25 | Shot Put
+ Ása Evudóttir           | Female      |   1.65 |  14.32 | Shot Put
+ Ása Geirsdóttir         | Female      |   1.75 |   8.62 | Triple Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   5.54 | 100 m dash
+ Eva Geirsdóttir         | Female      |   1.61 |    9.6 | 100 m dash
+ Lovísa Benediktsdóttir  | Female      |   1.73 |  15.03 | Shot Put
+ Sunneva Kristjánsdóttir | Female      |   1.74 |    8.7 | 100 m dash
+ Björn Rúnarsson         | Male        |   1.88 |   4.01 | Long Jump
+ Jón Rúnarsson           | Male        |   1.75 |      2 | High Jump
+ Helga Björgvinsdóttir   | Female      |   1.73 |   8.05 | 100 m dash
+ Friðgeir Gunnarsson     | Male        |   1.87 |   1.53 | High Jump
+ Lovísa Benediktsdóttir  | Female      |   1.73 |   7.59 | Triple Jump
+ Hulda Geirsdóttir       | Female      |   1.72 |   4.61 | Long Jump
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   9.18 | Shot Put
+ Hulda Friðgeirsdóttir   | Female      |   1.74 |   7.73 | 100 m dash
+ Elva Benediktsdóttir    | Female      |   1.78 |   4.53 | Long Jump
+ Björgvin Friðgeirsson   | Male        |   1.85 |   6.57 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |      9 | Triple Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |   6.69 | Triple Jump
+ Jóna Geirsdóttir        | Female      |   1.71 |   1.67 | High Jump
+ Eva Benediktsdóttir     | Female      |   1.66 |   1.88 | High Jump
+ Björn Angeluson         | Male        |   1.84 |   4.39 | Long Jump
+ Gréta Huldudóttir       | Female      |   1.76 |  15.63 | Shot Put
+ Jóna Björnsdóttir       | Female      |   1.69 |   9.92 | 100 m dash
+ Rúnar Benediktsson      | Male        |   1.71 |  16.05 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.64 |   6.63 | 100 m dash
+ Elva Rúnarsdóttir       | Female      |   1.67 |   8.53 | Triple Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |   8.72 | 100 m dash
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   3.39 | Long Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   8.76 | Triple Jump
+ Ármann Geirsson         | Male        |   1.77 |   9.33 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |   3.87 | Long Jump
+ Geir Friðgeirsson       | Male        |   1.86 |  14.45 | Shot Put
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   8.34 | Shot Put
+ Geir Kristjánsson       | Male        |   1.73 |   5.26 | Long Jump
+ Jóna Benediktsdóttir    | Female      |   1.62 |   1.89 | High Jump
+ Kristján Gunnarsson     | Male        |   1.81 |   7.07 | Triple Jump
+ Hulda Björnsdóttir      | Female      |   1.74 |   4.72 | Long Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |   7.17 | 100 m dash
+ Friðgeir Gunnarsson     | Male        |   1.87 |  14.72 | Shot Put
+ Eva Gunnarsdóttir       | Female      |   1.61 |  11.61 | Triple Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   10.7 | Triple Jump
+ Hulda Geirsdóttir       | Female      |   1.72 |  13.74 | Shot Put
+ Hulda Geirsdóttir       | Female      |   1.72 |   8.89 | Shot Put
+ Eva Björgvinsdóttir     | Female      |   1.79 |    6.6 | 100 m dash
+ Geir Björnsson          | Male        |   1.72 |   9.15 | Shot Put
+ Björn Rúnarsson         | Male        |   1.81 |   6.75 | Triple Jump
+ Björgvin Björnsson      | Male        |   1.82 |   8.46 | 100 m dash
+ Rúnar Benediktsson      | Male        |   1.71 |   1.11 | High Jump
+ Ármann Geirsson         | Male        |   1.77 |   7.42 | 100 m dash
+ Eva Geirsdóttir         | Female      |   1.61 |   9.82 | Shot Put
+ Benedikt Jónsson        | Male        |   1.71 |   9.14 | Triple Jump
+ Lovísa Benediktsdóttir  | Female      |   1.73 |   5.68 | 100 m dash
+ Angela Gunnarsdóttir    | Female      |   1.72 |   1.21 | High Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |  10.79 | Triple Jump
+ Björgvin Björnsson      | Male        |   1.82 |   12.9 | Shot Put
+ Ása Rúnarsdóttir        | Female      |   1.63 |   1.59 | High Jump
+ Rúnar Kristjánsson      | Male        |   1.76 |   6.62 | Triple Jump
+ Helga Elvudóttir        | Female      |   1.68 |   7.87 | 100 m dash
+ Benedikt Ármannsson     | Male        |   1.88 |   8.96 | 100 m dash
+ Ármann Rúnarsson        | Male        |   1.77 |   5.93 | 100 m dash
+ Björgvin Friðgeirsson   | Male        |   1.85 |   1.36 | High Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |   6.18 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   1.63 | High Jump
+ Sunneva Benediktsdóttir | Female      |   1.66 |   8.83 | Shot Put
+ Rúnar Benediktsson      | Male        |   1.71 |   8.83 | 100 m dash
+ Hulda Kristjánsdóttir   | Female      |   1.71 |    5.6 | Long Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   1.97 | High Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |   3.69 | Long Jump
+ Björn Geirsson          | Male        |   1.84 |   3.82 | Long Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |   1.11 | High Jump
+ Björn Rúnarsson         | Male        |   1.88 |   8.26 | Triple Jump
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |   1.56 | High Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   4.61 | Long Jump
+ Björn Lovísuson         | Male        |   1.85 |   1.69 | High Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   8.62 | Shot Put
+ Hulda Björgvinsdóttir   | Female      |   1.72 |  12.17 | Triple Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |   1.36 | High Jump
+ Gunnar Hulduson         | Male        |    1.8 |   6.78 | Long Jump
+ Jón Kristjánsson        | Male        |   1.86 |  12.61 | Triple Jump
+ Rúnar Rúnarsson         | Male        |   1.85 |   7.05 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.73 |  13.08 | Shot Put
+ Björgvin Björnsson      | Male        |   1.82 |  10.53 | Triple Jump
+ Ármann Geirsson         | Male        |   1.88 |   8.27 | 100 m dash
+ Ármann Ármannsson       | Male        |   1.77 |   8.57 | 100 m dash
+ Ása Evudóttir           | Female      |   1.65 |   1.84 | High Jump
+ Björn Geirsson          | Male        |   1.71 |   1.68 | High Jump
+ Elva Kristjánsdóttir    | Female      |   1.64 |   14.9 | Shot Put
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   6.73 | Long Jump
+ Gunnar Jónsson          | Male        |   1.87 |   3.64 | Long Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   7.71 | 100 m dash
+ Geir Benediktsson       | Male        |   1.89 |   9.98 | Triple Jump
+ Geir Hulduson           | Male        |   1.87 |   9.29 | 100 m dash
+ Geir Grétuson           | Male        |   1.88 |   5.08 | Long Jump
+ Björn Jónuson           | Male        |   1.73 |   5.33 | 100 m dash
+ Lovísa Kristjánsdóttir  | Female      |   1.66 |  10.55 | Triple Jump
+ Geir Benediktsson       | Male        |   1.89 |   4.49 | Long Jump
+ Ása Geirsdóttir         | Female      |   1.71 |   1.08 | High Jump
+ Björgvin Geirsson       | Male        |   1.82 |   6.28 | 100 m dash
+ Björgvin Björnsson      | Male        |   1.82 |   6.57 | Long Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |  11.77 | Shot Put
+ Björn Lovísuson         | Male        |   1.85 |   1.54 | High Jump
+ Eva Björgvinsdóttir     | Female      |   1.79 |  11.38 | Triple Jump
+ Kristján Jónsson        | Male        |   1.89 |   4.63 | Long Jump
+ Ármann Rúnarsson        | Male        |   1.77 |   6.67 | Triple Jump
+ Geir Grétuson           | Male        |   1.88 |   2.08 | High Jump
+ Elva Gunnarsdóttir      | Female      |   1.64 |   8.92 | Shot Put
+ Jóna Björgvinsdóttir    | Female      |   1.65 |   7.82 | 100 m dash
+ Sunneva Björnsdóttir    | Female      |   1.61 |   1.08 | High Jump
+ Ása Friðgeirsdóttir     | Female      |   1.75 |    9.9 | Triple Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   5.97 | 100 m dash
+ Sunneva Gunnarsdóttir   | Female      |   1.63 |   5.82 | Long Jump
+ Benedikt Helguson       | Male        |   1.88 |   1.94 | High Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |  12.02 | Triple Jump
+ Jóna Björnsdóttir       | Female      |   1.69 |  12.49 | Shot Put
+ Friðgeir Gunnarsson     | Male        |   1.78 |   9.39 | Shot Put
+ Lovísa Kristjánsdóttir  | Female      |   1.62 |  12.77 | Triple Jump
+ Gunnar Jónsson          | Male        |   1.81 |   3.83 | Long Jump
+ Geir Jónsson            | Male        |   1.85 |  10.36 | 100 m dash
+ Eva Geirsdóttir         | Female      |   1.61 |      5 | Long Jump
+ Sunneva Björnsdóttir    | Female      |    1.7 |  12.42 | Triple Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   8.05 | 100 m dash
+ Geir Rúnarsson          | Male        |   1.78 |   6.51 | Long Jump
+ Ármann Ármannsson       | Male        |   1.77 |   5.55 | Long Jump
+ Kristján Evuson         | Male        |   1.84 |   8.23 | 100 m dash
+ Angela Björgvinsdóttir  | Female      |   1.64 |   5.78 | 100 m dash
+ Ása Björgvinsdóttir     | Female      |   1.71 |   5.17 | Long Jump
+ Jón Geirsson            | Male        |   1.82 |  11.89 | Shot Put
+ Björn Lovísuson         | Male        |   1.85 |   7.34 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.87 |   1.25 | High Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |  15.78 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.64 |   1.74 | High Jump
+ Jóna Geirsdóttir        | Female      |   1.71 |  13.68 | Shot Put
+ Kristján Ármannsson     | Male        |   1.89 |   5.09 | Long Jump
+ Elva Benediktsdóttir    | Female      |   1.78 |   4.88 | Long Jump
+ Björgvin Rúnarsson      | Male        |   1.73 |  10.33 | 100 m dash
+ Björgvin Ármannsson     | Male        |   1.72 |   3.75 | Long Jump
+ Björn Björnsson         | Male        |   1.88 |   7.07 | 100 m dash
+ Kristján Björnsson      | Male        |   1.87 |  11.48 | Triple Jump
+ Hulda Evudóttir         | Female      |   1.77 |  10.52 | Triple Jump
+ Ármann Geirsson         | Male        |   1.84 |  12.09 | Shot Put
+ Lovísa Helgudóttir      | Female      |   1.64 |  14.81 | Shot Put
+ Geir Grétuson           | Male        |   1.88 |   5.63 | Long Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |    7.9 | 100 m dash
+ Sunneva Helgudóttir     | Female      |   1.77 |   8.68 | Shot Put
+ Eva Gunnarsdóttir       | Female      |   1.61 |  14.12 | Shot Put
+ Björgvin Ármannsson     | Male        |   1.72 |  12.55 | Triple Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |  10.43 | 100 m dash
+ Kristján Benediktsson   | Male        |   1.75 |    8.4 | Triple Jump
+ Kristján Gunnarsson     | Male        |   1.81 |   9.51 | 100 m dash
+ Gréta Huldudóttir       | Female      |   1.76 |   5.45 | Long Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   8.51 | 100 m dash
+ Ása Geirsdóttir         | Female      |   1.76 |  11.48 | Triple Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   9.95 | Triple Jump
+ Björn Lovísuson         | Male        |   1.85 |   7.47 | Triple Jump
+ Gréta Elvudóttir        | Female      |   1.61 |   6.14 | Long Jump
+ Ása Geirsdóttir         | Female      |   1.75 |   1.39 | High Jump
+ Elva Kristjánsdóttir    | Female      |   1.64 |   1.31 | High Jump
+ Elva Gunnarsdóttir      | Female      |   1.69 |   4.91 | Long Jump
+ Geir Grétuson           | Male        |   1.88 |   1.06 | High Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   8.43 | 100 m dash
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   4.74 | Long Jump
+ Geir Björgvinsson       | Male        |   1.81 |    7.8 | 100 m dash
+ Lovísa Benediktsdóttir  | Female      |   1.72 |   1.87 | High Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   9.26 | 100 m dash
+ Kristján Evuson         | Male        |   1.84 |  11.05 | Triple Jump
+ Geir Friðgeirsson       | Male        |   1.86 |   4.25 | Long Jump
+ Björn Friðgeirsson      | Male        |   1.71 |   6.77 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |  11.47 | Triple Jump
+ Geir Kristjánsson       | Male        |   1.73 |  11.85 | Triple Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |    9.8 | Shot Put
+ Elva Kristjánsdóttir    | Female      |   1.64 |   5.34 | 100 m dash
+ Ása Evudóttir           | Female      |   1.65 |  15.55 | Shot Put
+ Hulda Björgvinsdóttir   | Female      |   1.72 |  10.07 | Shot Put
+ Hulda Jónsdóttir        | Female      |   1.73 |  11.98 | Triple Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |  10.53 | Triple Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   1.22 | High Jump
+ Eva Ásudóttir           | Female      |   1.76 |   5.57 | 100 m dash
+ Ása Jónsdóttir          | Female      |    1.7 |   6.72 | Long Jump
+ Ása Evudóttir           | Female      |   1.73 |   13.8 | Shot Put
+ Björn Geirsson          | Male        |   1.71 |   1.15 | High Jump
+ Helga Björnsdóttir      | Female      |    1.6 |   5.62 | 100 m dash
+ Eva Gunnarsdóttir       | Female      |   1.61 |   9.03 | 100 m dash
+ Gréta Kristjánsdóttir   | Female      |   1.67 |   11.6 | Triple Jump
+ Björn Benediktsson      | Male        |   1.84 |   7.71 | 100 m dash
+ Kristján Benediktsson   | Male        |   1.75 |    4.4 | Long Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   4.42 | Long Jump
+ Björn Rúnarsson         | Male        |   1.88 |   6.34 | Long Jump
+ Hulda Friðgeirsdóttir   | Female      |   1.74 |   6.44 | 100 m dash
+ Björn Björnsson         | Male        |   1.84 |   3.46 | Long Jump
+ Ása Geirsdóttir         | Female      |   1.71 |  15.13 | Shot Put
+ Friðgeir Gunnarsson     | Male        |   1.87 |  11.55 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.73 |   5.72 | Long Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   6.09 | Long Jump
+ Benedikt Helguson       | Male        |   1.88 |   4.68 | Long Jump
+ Eva Benediktsdóttir     | Female      |   1.66 |   2.07 | High Jump
+ Ása Jónsdóttir          | Female      |    1.7 |     10 | Shot Put
+ Eva Geirsdóttir         | Female      |   1.61 |   1.17 | High Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |    1.7 | High Jump
+ Geir Benediktsson       | Male        |   1.89 |   8.52 | Shot Put
+ Gunnar Jónsson          | Male        |   1.81 |      4 | Long Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   1.44 | High Jump
+ Friðgeir Geirsson       | Male        |   1.88 |   8.75 | 100 m dash
+ Jóna Benediktsdóttir    | Female      |   1.62 |   1.99 | High Jump
+ Rúnar Geirsson          | Male        |   1.71 |  11.45 | Triple Jump
+ Ármann Ármannsson       | Male        |   1.77 |   2.02 | High Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |  13.11 | Shot Put
+ Gunnar Benediktsson     | Male        |   1.83 |    1.7 | High Jump
+ Rúnar Geirsson          | Male        |   1.71 |  12.88 | Triple Jump
+ Geir Hulduson           | Male        |   1.71 |   1.07 | High Jump
+ Rúnar Björnsson         | Male        |   1.71 |   1.95 | High Jump
+ Björgvin Björnsson      | Male        |   1.82 |   6.22 | 100 m dash
+ Björn Björnsson         | Male        |   1.88 |   4.83 | Long Jump
+ Gréta Rúnarsdóttir      | Female      |   1.73 |  11.11 | Shot Put
+ Rúnar Kristjánsson      | Male        |   1.76 |   1.13 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |   1.29 | High Jump
+ Kristján Björnsson      | Male        |   1.85 |   9.88 | Triple Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   9.79 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   7.23 | 100 m dash
+ Rúnar Kristjánsson      | Male        |   1.76 |  12.62 | Shot Put
+ Geir Hulduson           | Male        |   1.87 |   6.58 | 100 m dash
+ Eva Gunnarsdóttir       | Female      |   1.61 |    6.9 | 100 m dash
+ Jóna Geirsdóttir        | Female      |   1.71 |   6.74 | Long Jump
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   7.41 | Triple Jump
+ Geir Rúnarsson          | Male        |   1.78 |   8.89 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |  12.33 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |    3.7 | Long Jump
+ Ármann Rúnarsson        | Male        |   1.78 |   3.63 | Long Jump
+ Gunnar Jónsson          | Male        |   1.81 |   1.52 | High Jump
+ Jóna Geirsdóttir        | Female      |   1.71 |   1.57 | High Jump
+ Kristján Benediktsson   | Male        |   1.75 |   7.15 | Triple Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |  12.86 | Shot Put
+ Ármann Geirsson         | Male        |   1.84 |   6.63 | Long Jump
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   3.94 | Long Jump
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   8.62 | Triple Jump
+ Björn Rúnarsson         | Male        |   1.88 |   1.13 | High Jump
+ Eva Gunnarsdóttir       | Female      |   1.61 |   8.82 | Triple Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   9.17 | 100 m dash
+ Jóna Björgvinsdóttir    | Female      |   1.65 |      6 | Long Jump
+ Kristján Benediktsson   | Male        |   1.75 |   7.44 | 100 m dash
+ Angela Friðgeirsdóttir  | Female      |   1.79 |   8.63 | 100 m dash
+ Rúnar Geirsson          | Male        |   1.71 |   1.61 | High Jump
+ Sunneva Ármannsdóttir   | Female      |   1.65 |   1.17 | High Jump
+ Ármann Rúnarsson        | Male        |   1.77 |  10.19 | 100 m dash
+ Ása Friðgeirsdóttir     | Female      |   1.77 |   8.05 | 100 m dash
+ Kristján Ármannsson     | Male        |   1.89 |  12.58 | Triple Jump
+ Rúnar Björnsson         | Male        |   1.71 |   4.68 | Long Jump
+ Geir Björnsson          | Male        |   1.72 |   12.7 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.73 |   4.34 | Long Jump
+ Gunnar Jónsson          | Male        |   1.81 |   9.02 | 100 m dash
+ Angela Gunnarsdóttir    | Female      |   1.72 |  12.46 | Shot Put
+ Ármann Geirsson         | Male        |   1.84 |   6.82 | Triple Jump
+ Angela Rúnarsdóttir     | Female      |   1.71 |  14.01 | Shot Put
+ Gunnar Jónsson          | Male        |   1.87 |  15.95 | Shot Put
+ Hulda Friðgeirsdóttir   | Female      |   1.74 |   5.98 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   6.34 | Long Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |  10.67 | Shot Put
+ Lovísa Helgudóttir      | Female      |   1.64 |   1.78 | High Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |   7.88 | Triple Jump
+ Sunneva Björnsdóttir    | Female      |   1.61 |   9.17 | Triple Jump
+ Gréta Jónsdóttir        | Female      |   1.73 |   8.76 | Shot Put
+ Angela Friðgeirsdóttir  | Female      |   1.68 |  15.38 | Shot Put
+ Björgvin Björnsson      | Male        |   1.82 |    1.8 | High Jump
+ Ármann Geirsson         | Male        |   1.88 |   7.27 | 100 m dash
+ Helga Elvudóttir        | Female      |   1.68 |   7.73 | Triple Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   1.28 | High Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   9.52 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.73 |   4.38 | Long Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   9.28 | Shot Put
+ Helga Björnsdóttir      | Female      |   1.63 |  11.29 | Triple Jump
+ Gunnar Friðgeirsson     | Male        |   1.73 |   8.75 | Triple Jump
+ Björn Jónuson           | Male        |   1.73 |    5.7 | Long Jump
+ Ása Geirsdóttir         | Female      |   1.76 |   8.01 | 100 m dash
+ Björn Geirsson          | Male        |   1.71 |   5.07 | Long Jump
+ Jón Kristjánsson        | Male        |   1.79 |  10.17 | Shot Put
+ Hulda Geirsdóttir       | Female      |   1.72 |   1.16 | High Jump
+ Kristján Jónsson        | Male        |   1.89 |   6.35 | 100 m dash
+ Geir Björnsson          | Male        |   1.72 |   7.22 | 100 m dash
+ Geir Kristjánsson       | Male        |   1.73 |   6.43 | Long Jump
+ Ármann Ármannsson       | Male        |   1.77 |   4.56 | Long Jump
+ Hulda Jónsdóttir        | Female      |   1.73 |   1.45 | High Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |   7.59 | Triple Jump
+ Björgvin Björgvinsson   | Male        |   1.75 |   7.14 | Triple Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   1.07 | High Jump
+ Geir Rúnarsson          | Male        |   1.78 |   5.79 | Long Jump
+ Kristján Benediktsson   | Male        |   1.75 |  10.05 | Triple Jump
+ Björn Björnsson         | Male        |   1.84 |    6.3 | 100 m dash
+ Hulda Geirsdóttir       | Female      |   1.72 |   1.52 | High Jump
+ Sunneva Björnsdóttir    | Female      |    1.7 |   5.59 | Long Jump
+ Hulda Björgvinsdóttir   | Female      |   1.72 |   14.4 | Shot Put
+ Gréta Kristjánsdóttir   | Female      |   1.67 |  15.92 | Shot Put
+ Elva Benediktsdóttir    | Female      |   1.78 |   5.98 | Long Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |  15.71 | Shot Put
+ Jón Ármannsson          | Male        |   1.78 |   1.22 | High Jump
+ Geir Kristjánsson       | Male        |   1.73 |   6.65 | 100 m dash
+ Kristján Benediktsson   | Male        |   1.89 |   7.21 | 100 m dash
+ Helga Elvudóttir        | Female      |   1.68 |  10.95 | Shot Put
+ Björn Rúnarsson         | Male        |   1.88 |   5.98 | 100 m dash
+ Lovísa Kristjánsdóttir  | Female      |   1.62 |   3.49 | Long Jump
+ Gréta Friðgeirsdóttir   | Female      |   1.64 |   1.35 | High Jump
+ Ása Evudóttir           | Female      |   1.65 |   12.4 | Shot Put
+ Geir Rúnarsson          | Male        |   1.78 |   4.22 | Long Jump
+ Jón Kristjánsson        | Male        |   1.79 |   1.86 | High Jump
+ Ása Kristjánsdóttir     | Female      |   1.64 |   6.54 | 100 m dash
+ Sunneva Björnsdóttir    | Female      |   1.71 |    1.8 | High Jump
+ Björgvin Jónsson        | Male        |   1.86 |   9.55 | 100 m dash
+ Benedikt Benediktsson   | Male        |   1.81 |   5.53 | 100 m dash
+ Ása Evudóttir           | Female      |   1.65 |  14.14 | Shot Put
+ Gunnar Benediktsson     | Male        |   1.83 |  15.32 | Shot Put
+ Benedikt Rúnarsson      | Male        |   1.89 |  15.48 | Shot Put
+ Jóna Sunnevudóttir      | Female      |   1.79 |   8.72 | Shot Put
+ Jóna Björnsdóttir       | Female      |   1.69 |   1.53 | High Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   5.19 | Long Jump
+ Lovísa Benediktsdóttir  | Female      |   1.72 |   1.62 | High Jump
+ Gréta Elvudóttir        | Female      |   1.76 |   1.07 | High Jump
+ Geir Gunnarsson         | Male        |   1.83 |  11.73 | Triple Jump
+ Lovísa Benediktsdóttir  | Female      |   1.72 |   8.53 | 100 m dash
+ Lovísa Helgudóttir      | Female      |   1.64 |   5.06 | Long Jump
+ Geir Friðgeirsson       | Male        |   1.73 |  11.59 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.73 |    9.7 | Shot Put
+ Geir Rúnarsson          | Male        |   1.78 |   8.86 | 100 m dash
+ Jóna Friðgeirsdóttir    | Female      |   1.76 |   6.48 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.87 |   6.66 | Long Jump
+ Ármann Geirsson         | Male        |   1.88 |    9.2 | Triple Jump
+ Björgvin Friðgeirsson   | Male        |   1.85 |   5.76 | Long Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |   5.49 | 100 m dash
+ Björn Jónuson           | Male        |   1.73 |  11.14 | Triple Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   6.68 | Triple Jump
+ Ármann Rúnarsson        | Male        |   1.78 |   1.21 | High Jump
+ Kristján Evuson         | Male        |   1.84 |   4.63 | Long Jump
+ Sunneva Jónsdóttir      | Female      |   1.61 |   1.67 | High Jump
+ Björn Friðgeirsson      | Male        |   1.71 |   1.14 | High Jump
+ Jóna Friðgeirsdóttir    | Female      |   1.76 |   6.09 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |      6 | Long Jump
+ Hulda Friðgeirsdóttir   | Female      |   1.74 |   4.52 | Long Jump
+ Angela Geirsdóttir      | Female      |   1.76 |   11.8 | Triple Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   5.33 | 100 m dash
+ Angela Björgvinsdóttir  | Female      |   1.64 |   8.94 | Shot Put
+ Geir Benediktsson       | Male        |   1.89 |    6.5 | Long Jump
+ Lovísa Benediktsdóttir  | Female      |   1.69 |  14.43 | Shot Put
+ Rúnar Kristjánsson      | Male        |   1.76 |   1.22 | High Jump
+ Benedikt Helguson       | Male        |   1.88 |   6.52 | 100 m dash
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   1.14 | High Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   4.51 | Long Jump
+ Angela Friðgeirsdóttir  | Female      |   1.79 |   6.34 | Long Jump
+ Jón Kristjánsson        | Male        |   1.86 |  10.26 | 100 m dash
+ Ása Rúnarsdóttir        | Female      |   1.63 |  14.99 | Shot Put
+ Kristján Gunnarsson     | Male        |   1.81 |    5.9 | Long Jump
+ Angela Elvudóttir       | Female      |   1.77 |   7.27 | Triple Jump
+ Sunneva Benediktsdóttir | Female      |   1.66 |   1.95 | High Jump
+ Ása Evudóttir           | Female      |   1.65 |   5.92 | 100 m dash
+ Ása Friðgeirsdóttir     | Female      |   1.75 |   6.42 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |  11.22 | Shot Put
+ Benedikt Benediktsson   | Male        |   1.81 |   1.11 | High Jump
+ Sunneva Helgudóttir     | Female      |   1.77 |   12.8 | Triple Jump
+ Gréta Jónsdóttir        | Female      |   1.73 |   1.42 | High Jump
+ Geir Kristjánsson       | Male        |   1.73 |   9.65 | Triple Jump
+ Björn Geirsson          | Male        |   1.84 |   9.07 | 100 m dash
+ Lovísa Benediktsdóttir  | Female      |   1.73 |    2.1 | High Jump
+ Benedikt Ármannsson     | Male        |   1.88 |   4.81 | Long Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   5.55 | Long Jump
+ Gunnar Benediktsson     | Male        |   1.83 |    8.6 | Shot Put
+ Gunnar Jónsson          | Male        |   1.87 |   5.25 | Long Jump
+ Hulda Kristjánsdóttir   | Female      |   1.71 |   5.43 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   1.27 | High Jump
+ Jón Ármannsson          | Male        |   1.78 |   6.84 | 100 m dash
+ Björgvin Björnsson      | Male        |   1.82 |  12.33 | Triple Jump
+ Björgvin Rúnarsson      | Male        |   1.73 |  11.08 | Triple Jump
+ Elva Friðgeirsdóttir    | Female      |   1.77 |   7.18 | Triple Jump
+ Hulda Geirsdóttir       | Female      |   1.79 |   9.65 | 100 m dash
+ Rúnar Björgvinsson      | Male        |   1.88 |   5.54 | Long Jump
+ Hulda Jónsdóttir        | Female      |   1.75 |    1.5 | High Jump
+ Gréta Elvudóttir        | Female      |   1.76 |   4.16 | Long Jump
+ Benedikt Helguson       | Male        |   1.88 |   1.81 | High Jump
+ Geir Kristjánsson       | Male        |   1.73 |  16.39 | Shot Put
+ Björn Lovísuson         | Male        |   1.85 |   9.95 | Triple Jump
+ Gunnar Jónsson          | Male        |   1.81 |   12.2 | Triple Jump
+ Björgvin Björnsson      | Male        |   1.82 |   7.09 | Triple Jump
+ Kristján Jónsson        | Male        |   1.89 |  12.11 | Shot Put
+ Björgvin Ármannsson     | Male        |   1.72 |   3.44 | Long Jump
+ Björn Benediktsson      | Male        |   1.84 |   3.72 | Long Jump
+ Geir Grétuson           | Male        |   1.88 |   1.08 | High Jump
+ Geir Rúnarsson          | Male        |   1.78 |   4.81 | Long Jump
+ Ása Geirsdóttir         | Female      |   1.71 |   5.58 | 100 m dash
+ Geir Rúnarsson          | Male        |   1.78 |   2.09 | High Jump
+ Björn Ármannsson        | Male        |   1.86 |   1.29 | High Jump
+ Geir Benediktsson       | Male        |   1.89 |   8.31 | Triple Jump
+ Jóna Angeludóttir       | Female      |   1.69 |  16.38 | Shot Put
+ Kristján Evuson         | Male        |   1.84 |    2.1 | High Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   3.68 | Long Jump
+ Jóna Benediktsdóttir    | Female      |   1.62 |   6.73 | Long Jump
+ Björn Jónuson           | Male        |   1.73 |   7.07 | 100 m dash
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   6.33 | Long Jump
+ Björn Björnsson         | Male        |   1.84 |   5.78 | Long Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   7.86 | 100 m dash
+ Friðgeir Gunnarsson     | Male        |   1.78 |   7.56 | Triple Jump
+ Gunnar Jónsson          | Male        |   1.87 |  12.56 | Triple Jump
+ Rúnar Kristjánsson      | Male        |   1.76 |  11.23 | Triple Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   9.41 | Triple Jump
+ Gunnar Hulduson         | Male        |    1.8 |   7.04 | 100 m dash
+ Björn Björnsson         | Male        |   1.84 |   6.04 | 100 m dash
+ Ása Evudóttir           | Female      |   1.65 |  10.64 | Shot Put
+ Rúnar Geirsson          | Male        |   1.71 |    1.9 | High Jump
+ Ása Evudóttir           | Female      |   1.73 |   2.08 | High Jump
+ Ármann Geirsson         | Male        |   1.84 |   5.86 | Long Jump
+ Ása Evudóttir           | Female      |   1.73 |   14.3 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.62 |   1.11 | High Jump
+ Björn Rúnarsson         | Male        |   1.88 |   6.85 | 100 m dash
+ Ármann Geirsson         | Male        |   1.88 |   3.48 | Long Jump
+ Gunnar Jónsson          | Male        |   1.87 |   7.77 | 100 m dash
+ Hulda Björgvinsdóttir   | Female      |   1.72 |    4.5 | Long Jump
+ Rúnar Kristjánsson      | Male        |   1.71 |   8.37 | Shot Put
+ Kristján Benediktsson   | Male        |   1.75 |   1.37 | High Jump
+ Benedikt Ármannsson     | Male        |   1.88 |   4.15 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |   5.25 | 100 m dash
+ Kristján Jónsson        | Male        |   1.89 |  13.36 | Shot Put
+ Björgvin Rúnarsson      | Male        |   1.73 |   6.88 | 100 m dash
+ Gunnar Jónsson          | Male        |   1.81 |   6.53 | Long Jump
+ Geir Björnsson          | Male        |   1.72 |  16.18 | Shot Put
+ Jón Rúnarsson           | Male        |   1.75 |   4.58 | Long Jump
+ Sunneva Björnsdóttir    | Female      |   1.71 |   8.45 | Shot Put
+ Jóna Björgvinsdóttir    | Female      |   1.65 |  14.19 | Shot Put
+ Björn Benediktsson      | Male        |   1.84 |   4.65 | Long Jump
+ Benedikt Helguson       | Male        |   1.88 |  12.83 | Shot Put
+ Geir Kristjánsson       | Male        |   1.73 |  16.22 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.64 |   1.09 | High Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |  10.15 | 100 m dash
+ Elva Rúnarsdóttir       | Female      |   1.67 |  12.24 | Triple Jump
+ Ármann Geirsson         | Male        |   1.77 |   1.64 | High Jump
+ Björn Björnsson         | Male        |   1.82 |   6.47 | Long Jump
+ Helga Björgvinsdóttir   | Female      |   1.73 |   5.91 | Long Jump
+ Friðgeir Friðgeirsson   | Male        |   1.89 |   5.29 | Long Jump
+ Björn Friðgeirsson      | Male        |   1.71 |   7.11 | 100 m dash
+ Gunnar Kristjánsson     | Male        |   1.78 |   7.48 | Triple Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   1.83 | High Jump
+ Geir Grétuson           | Male        |   1.88 |   9.42 | Triple Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   11.5 | Triple Jump
+ Björn Lovísuson         | Male        |   1.85 |   9.13 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.73 |   2.09 | High Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   1.46 | High Jump
+ Ármann Rúnarsson        | Male        |   1.78 |   1.26 | High Jump
+ Gréta Rúnarsdóttir      | Female      |   1.63 |   6.11 | Long Jump
+ Helga Elvudóttir        | Female      |   1.68 |   2.03 | High Jump
+ Jón Ármannsson          | Male        |   1.78 |   4.93 | Long Jump
+ Lovísa Helgudóttir      | Female      |   1.64 |   7.08 | Triple Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   8.81 | 100 m dash
+ Björgvin Friðgeirsson   | Male        |   1.85 |   1.82 | High Jump
+ Hulda Elvudóttir        | Female      |   1.61 |   9.07 | 100 m dash
+ Lovísa Benediktsdóttir  | Female      |   1.69 |   1.86 | High Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   9.02 | 100 m dash
+ Eva Geirsdóttir         | Female      |   1.61 |  14.57 | Shot Put
+ Jóna Geirsdóttir        | Female      |   1.71 |   6.01 | Long Jump
+ Björn Björnsson         | Male        |   1.84 |  11.99 | Triple Jump
+ Jóna Jónsdóttir         | Female      |   1.72 |   1.88 | High Jump
+ Angela Gunnarsdóttir    | Female      |   1.72 |  11.08 | Shot Put
+ Gréta Elvudóttir        | Female      |   1.76 |   8.56 | 100 m dash
+ Kristján Geirsson       | Male        |   1.75 |  15.55 | Shot Put
+ Ármann Rúnarsson        | Male        |   1.77 |     12 | Triple Jump
+ Friðgeir Gunnarsson     | Male        |   1.78 |   1.93 | High Jump
+ Björn Benediktsson      | Male        |   1.84 |  14.47 | Shot Put
+ Lovísa Benediktsdóttir  | Female      |   1.73 |   3.68 | Long Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   1.93 | High Jump
+ Gréta Kristjánsdóttir   | Female      |   1.62 |  15.01 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.64 |   7.33 | 100 m dash
+ Friðgeir Rúnarsson      | Male        |   1.74 |   9.53 | 100 m dash
+ Helga Ármannsdóttir     | Female      |   1.61 |   8.66 | Triple Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |   6.62 | 100 m dash
+ Jón Kristjánsson        | Male        |   1.86 |   14.8 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.73 |  11.74 | Triple Jump
+ Hulda Björgvinsdóttir   | Female      |   1.72 |    4.9 | Long Jump
+ Geir Benediktsson       | Male        |   1.89 |   4.28 | Long Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |   8.24 | Triple Jump
+ Friðgeir Friðgeirsson   | Male        |   1.75 |    4.9 | Long Jump
+ Hulda Geirsdóttir       | Female      |   1.62 |  15.85 | Shot Put
+ Friðgeir Gunnarsson     | Male        |   1.87 |   1.69 | High Jump
+ Ása Friðgeirsdóttir     | Female      |   1.77 |   5.51 | Long Jump
+ Hulda Geirsdóttir       | Female      |   1.72 |   13.4 | Shot Put
+ Hulda Elvudóttir        | Female      |   1.61 |   3.69 | Long Jump
+ Sunneva Benediktsdóttir | Female      |   1.66 |   1.22 | High Jump
+ Ása Björgvinsdóttir     | Female      |   1.71 |  12.75 | Triple Jump
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   6.96 | Triple Jump
+ Sunneva Björgvinsdóttir | Female      |   1.72 |    5.4 | Long Jump
+ Hulda Evudóttir         | Female      |   1.77 |    9.2 | 100 m dash
+ Sunneva Benediktsdóttir | Female      |   1.66 |  11.18 | Triple Jump
+ Kristján Evuson         | Male        |   1.84 |  11.37 | Shot Put
+ Björgvin Friðgeirsson   | Male        |   1.85 |   7.14 | Triple Jump
+ Björn Björnsson         | Male        |   1.88 |   8.79 | 100 m dash
+ Geir Hulduson           | Male        |   1.71 |   5.65 | Long Jump
+ Helga Björnsdóttir      | Female      |   1.63 |  12.41 | Shot Put
+ Sunneva Friðgeirsdóttir | Female      |   1.72 |   9.44 | 100 m dash
+ Sunneva Geirsdóttir     | Female      |   1.66 |    9.1 | 100 m dash
+ Geir Gunnarsson         | Male        |    1.7 |   1.84 | High Jump
+ Björn Friðgeirsson      | Male        |   1.71 |  16.64 | Shot Put
+ Elva Gunnarsdóttir      | Female      |   1.79 |    1.4 | High Jump
+ Geir Gunnarsson         | Male        |   1.83 |   4.35 | Long Jump
+ Jón Kristjánsson        | Male        |   1.86 |   7.43 | Triple Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   1.23 | High Jump
+ Benedikt Benediktsson   | Male        |   1.81 |   5.95 | Long Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   1.41 | High Jump
+ Ása Evudóttir           | Female      |   1.65 |  10.17 | Triple Jump
+ Rúnar Björgvinsson      | Male        |   1.88 |   7.82 | 100 m dash
+ Helga Elvudóttir        | Female      |   1.68 |   7.89 | 100 m dash
+ Gréta Rúnarsdóttir      | Female      |   1.73 |   1.61 | High Jump
+ Lovísa Kristjánsdóttir  | Female      |   1.62 |   6.44 | 100 m dash
+ Björn Angeluson         | Male        |   1.84 |  15.33 | Shot Put
+ Gréta Rúnarsdóttir      | Female      |   1.73 |  10.08 | 100 m dash
+ Ása Friðgeirsdóttir     | Female      |   1.75 |  10.98 | Shot Put
+ Gréta Huldudóttir       | Female      |   1.76 |  14.94 | Shot Put
+ Lovísa Helgudóttir      | Female      |   1.64 |  11.17 | Shot Put
+ Elva Rúnarsdóttir       | Female      |   1.67 |   9.24 | Shot Put
+ Helga Elvudóttir        | Female      |   1.68 |   5.59 | Long Jump
+ Ása Jónsdóttir          | Female      |    1.7 |   3.52 | Long Jump
+ Jóna Geirsdóttir        | Female      |   1.71 |   1.42 | High Jump
+ Ása Friðgeirsdóttir     | Female      |   1.75 |   1.06 | High Jump
+ Ármann Geirsson         | Male        |   1.88 |  10.54 | Triple Jump
+ Friðgeir Rúnarsson      | Male        |   1.74 |  14.34 | Shot Put
+ Kristján Benediktsson   | Male        |   1.75 |    1.7 | High Jump
+ Gréta Elvudóttir        | Female      |   1.76 |  11.15 | Triple Jump
+ Björn Geirsson          | Male        |   1.71 |   8.66 | Triple Jump
+ Ása Rúnarsdóttir        | Female      |   1.63 |   9.05 | 100 m dash
+ Ása Geirsdóttir         | Female      |   1.76 |   6.56 | Long Jump
+ Friðgeir Gunnarsson     | Male        |   1.87 |  14.76 | Shot Put
+ Rúnar Björgvinsson      | Male        |   1.88 |   8.64 | 100 m dash
+ Björgvin Björnsson      | Male        |   1.82 |   6.11 | 100 m dash
+ Kristján Björnsson      | Male        |   1.85 |  11.14 | Shot Put
+ Rúnar Björgvinsson      | Male        |   1.88 |   1.62 | High Jump
+ Ása Geirsdóttir         | Female      |   1.75 |  11.52 | Shot Put
+ Sunneva Jónudóttir      | Female      |   1.77 |    5.4 | Long Jump
+ Jóna Björgvinsdóttir    | Female      |   1.65 |  12.56 | Triple Jump
+ Geir Benediktsson       | Male        |   1.89 |   6.22 | 100 m dash
+ Sunneva Björgvinsdóttir | Female      |   1.72 |  14.36 | Shot Put
+ Benedikt Benediktsson   | Male        |   1.81 |  12.89 | Triple Jump
+ Kristján Benediktsson   | Male        |   1.75 |   1.76 | High Jump
+ Björn Friðgeirsson      | Male        |   1.71 |   5.73 | Long Jump
+ Ármann Geirsson         | Male        |   1.84 |   8.82 | Triple Jump
+ Gunnar Benediktsson     | Male        |   1.83 |    8.9 | 100 m dash
+ Kristján Björnsson      | Male        |   1.85 |   7.17 | 100 m dash
+ Ármann Geirsson         | Male        |   1.77 |    1.3 | High Jump
+ Lovísa Kristjánsdóttir  | Female      |   1.66 |   6.12 | Long Jump
+ Rúnar Geirsson          | Male        |   1.71 |  13.05 | Triple Jump
+ Gunnar Hulduson         | Male        |    1.8 |  11.81 | Triple Jump
+ Rúnar Benediktsson      | Male        |   1.71 |   1.96 | High Jump
+ Björgvin Ármannsson     | Male        |   1.72 |   5.39 | 100 m dash
+ Ármann Geirsson         | Male        |   1.77 |   7.24 | 100 m dash
+ Rúnar Kristjánsson      | Male        |   1.76 |   2.04 | High Jump
+ Sunneva Björnsdóttir    | Female      |    1.7 |   7.54 | 100 m dash
+ Ármann Ármannsson       | Male        |   1.77 |  15.25 | Shot Put
+ Helga Elvudóttir        | Female      |   1.68 |   8.34 | 100 m dash
+ Eva Benediktsdóttir     | Female      |   1.66 |   7.53 | Triple Jump
+ Björgvin Björnsson      | Male        |   1.82 |   7.82 | Triple Jump
+ Geir Grétuson           | Male        |   1.88 |  13.23 | Shot Put
+ Benedikt Helguson       | Male        |   1.88 |   1.51 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |   9.64 | 100 m dash
+ Benedikt Jónsson        | Male        |   1.71 |   2.06 | High Jump
+ Hulda Benediktsdóttir   | Female      |   1.64 |  10.65 | Triple Jump
+ Ása Geirsdóttir         | Female      |   1.75 |  10.15 | Shot Put
+ Gunnar Jónsson          | Male        |   1.81 |   6.92 | Triple Jump
+ Hulda Kristjánsdóttir   | Female      |   1.79 |   14.2 | Shot Put
+ Angela Gunnarsdóttir    | Female      |   1.72 |   7.86 | Triple Jump
+ Björn Benediktsson      | Male        |   1.84 |  14.25 | Shot Put
+ Jóna Benediktsdóttir    | Female      |   1.73 |   8.97 | Triple Jump
+ Lovísa Sunnevudóttir    | Female      |   1.73 |   1.14 | High Jump
+ Sunneva Kristjánsdóttir | Female      |   1.74 |   1.59 | High Jump
+ Helga Friðgeirsdóttir   | Female      |    1.6 |   9.58 | Triple Jump
+ Björn Lovísuson         | Male        |   1.85 |   6.29 | 100 m dash
+ Sunneva Björnsdóttir    | Female      |   1.71 |   3.77 | Long Jump
+ Helga Björnsdóttir      | Female      |   1.63 |   1.07 | High Jump
+ Ármann Ármannsson       | Male        |   1.77 |   7.65 | Triple Jump
+ Angela Elvudóttir       | Female      |   1.77 |   1.82 | High Jump
+ Jón Kristjánsson        | Male        |   1.79 |   9.22 | Triple Jump
+ Angela Björgvinsdóttir  | Female      |   1.64 |   5.55 | 100 m dash
+ Björgvin Ármannsson     | Male        |   1.72 |   6.83 | 100 m dash
+ Björn Geirsson          | Male        |   1.71 |    6.8 | Triple Jump
+ Björgvin Friðgeirsson   | Male        |   1.85 |  11.75 | Triple Jump
+ Angela Friðgeirsdóttir  | Female      |   1.68 |   1.63 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.62 |  16.32 | Shot Put
+ Kristján Jónsson        | Male        |   1.89 |   1.69 | High Jump
+ Jóna Benediktsdóttir    | Female      |   1.78 |   1.77 | High Jump
+(2000 rows)
+
