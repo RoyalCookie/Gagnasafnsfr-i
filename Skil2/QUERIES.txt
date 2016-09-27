@@ -1,0 +1,91 @@
+SELECT 1 as Query;
+SELECT  count (*)
+FROM people p
+INNER JOIN results AS r ON r.peopleid = p.id
+WHERE NOT(RESULT IS NOT NULL);
+
+SELECT 2 as Query;
+SELECT DISTINCT p.id, p.name
+FROM people p
+LEFT JOIN results AS r ON r.peopleid = p.id
+WHERE r IS NULL;
+
+
+SELECT 3 as Query;
+SELECT DISTINCT p.id,p.name
+FROM people p
+INNER JOIN  results  AS  r ON r.peopleid = p.id
+INNER JOIN  competitions AS c ON c.id = r.competitionid
+WHERE ( r.result = (select record from sports where id = 0)
+      AND r.sportid = 0 )
+      OR (EXTRACT(YEAR FROM held) = 2002 AND EXTRACT(MONTH FROM c.held) = 6)
+ORDER BY(p.id);
+
+
+SELECT 4 as Query;
+SELECT P.id, P.name
+FROM People P
+INNER JOIN  results  AS  R ON R.peopleid = P.id
+INNER JOIN  sports AS S ON S.id = R.sportid
+WHERE R.result = S.record
+AND 1 = ( SELECT count(DISTINCT SR.sportid)
+	FROM results SR
+	INNER JOIN people AS SP ON SP.id = SR.peopleid
+	WHERE SP.id = P.id);
+
+SELECT 5 as Query;
+SELECT DISTINCT S.id, S.name, CAST(MAX(R.Result) AS decimal)::NUMERIC(4,2) AS maxres
+FROM sports S
+INNER JOIN  Results R ON (R.sportid = S.id)
+GROUP BY S.id;
+
+SELECT 6 as Query;
+SELECT P.id, p.name, count(S.record)
+FROM People p
+INNER JOIN  results  AS  R ON R.peopleid = P.id
+INNER JOIN  Sports S ON (S.id = R.sportid)
+INNER JOIN  competitions AS c ON c.id = r.competitionid
+WHERE R.result  >= S.record
+GROUP BY P.id
+HAVING count(S.record) >= 2;
+
+SELECT 7 as Query;
+SELECT P.id, P.name, P.height, R.result, S.name,
+(CASE WHEN R.result >= S.record THEN 'yes' else 'no'END) as record
+FROM people P
+INNER JOIN results R ON R.peopleid = P.id
+INNER JOIN sports S On R.sportid = S.id
+WHERE R.result >= 
+	(SELECT MAX(TempR.result)
+	FROM results TempR
+	WHERE TempR.sportID = S.ID);
+
+SELECT 8 as Query;
+SELECT COUNT(P.id)
+FROM People P
+WHERE 10 <= (SELECT COUNT(DISTINCT TEMPC.PLACE)
+	    FROM results TEMPR, competitions TEMPC 
+	    WHERE P.ID = TEMPR.peopleid
+	    AND TEMPR.competitionid = TEMPC.id );
+
+
+
+SELECT 9 AS QUERRY;
+SELECT *
+FROM people p
+WHERE 7 = (
+            select count(distinct sportid)
+            from results r
+            INNER JOIN sports AS s ON r.sportid = s.id
+            where peopleid = p.id
+            AND
+            r.result >= s.record);
+
+
+
+SELECT 10 AS QUERRY;
+SELECT *,  (SELECT MIN(sr.result) FROM results sr WHERE sr.sportid = s.id)
+FROM sports s
+WHERE (SELECT COUNT(*) FROM competitions) = (SELECT COUNT(DISTINCT sr.competitionid)
+            FROM results sr
+            WHERE sr.sportid  = s.id);

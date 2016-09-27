@@ -1,0 +1,3 @@
+#! /bin/bash
+
+psql -d skil2 -f QUERIES.txt

@@ -1,0 +1,316 @@
+ query 
+-------
+     1
+(1 row)
+
+ count 
+-------
+    94
+(1 row)
+
+ query 
+-------
+     2
+(1 row)
+
+ id  |         name         
+-----+----------------------
+ 248 | Jóna Rúnarsdóttir
+ 251 | Björn Björgvinsson
+ 250 | Elva Friðgeirsdóttir
+(3 rows)
+
+ query 
+-------
+     3
+(1 row)
+
+ id  |          name           
+-----+-------------------------
+   0 | Gréta Geirsdóttir
+   1 | Jón Björgvinsson
+   2 | Eva Rúnarsdóttir
+   4 | Gréta Björnsdóttir
+   6 | Sunneva Friðgeirsdóttir
+   7 | Gunnar Benediktsson
+   8 | Jóna Sunnevudóttir
+   9 | Jón Elvuson
+  10 | Jóna Jónsdóttir
+  11 | Friðgeir Kristjánsson
+  12 | Ása Ármannsdóttir
+  13 | Ármann Geirsson
+  14 | Eva Geirsdóttir
+  15 | Björgvin Friðgeirsson
+  16 | Ása Lovísudóttir
+  17 | Rúnar Björnsson
+  18 | Gréta Benediktsdóttir
+  21 | Jón Friðgeirsson
+  23 | Friðgeir Gunnarsson
+  24 | Elva Kristjánsdóttir
+  25 | Geir Jónsson
+  28 | Sunneva Friðgeirsdóttir
+  29 | Rúnar Benediktsson
+  30 | Elva Björnsdóttir
+  31 | Kristján Kristjánsson
+  32 | Hulda Huldudóttir
+  33 | Benedikt Rúnarsson
+  35 | Friðgeir Geirsson
+  36 | Hulda Jónsdóttir
+  37 | Friðgeir Friðgeirsson
+  39 | Jón Friðgeirsson
+  40 | Angela Rúnarsdóttir
+  43 | Björn Jónsson
+  44 | Sunneva Sunnevudóttir
+  45 | Friðgeir Björnsson
+  46 | Lovísa Gunnarsdóttir
+  48 | Jóna Kristjánsdóttir
+  49 | Geir Elvuson
+  50 | Jóna Huldudóttir
+  51 | Benedikt Kristjánsson
+  52 | Jóna Ármannsdóttir
+  53 | Gunnar Angeluson
+  54 | Lovísa Ármannsdóttir
+  55 | Rúnar Björgvinsson
+  56 | Eva Gunnarsdóttir
+  57 | Geir Björnsson
+  58 | Angela Geirsdóttir
+  59 | Kristján Benediktsson
+  60 | Elva Sunnevudóttir
+  61 | Kristján Gunnarsson
+  62 | Hulda Friðgeirsdóttir
+  63 | Geir Friðgeirsson
+  64 | Hulda Jónsdóttir
+  66 | Ása Jónsdóttir
+  67 | Geir Kristjánsson
+  70 | Gréta Björnsdóttir
+  71 | Friðgeir Björnsson
+  72 | Angela Friðgeirsdóttir
+  73 | Gunnar Sunnevuson
+  74 | Helga Geirsdóttir
+  75 | Björn Kristjánsson
+  77 | Ármann Benediktsson
+  78 | Helga Sunnevudóttir
+  79 | Rúnar Björnsson
+  81 | Rúnar Friðgeirsson
+  83 | Friðgeir Jónsson
+  85 | Friðgeir Ármannsson
+  86 | Hulda Gunnarsdóttir
+  87 | Rúnar Gunnarsson
+  88 | Gréta Rúnarsdóttir
+  90 | Gréta Kristjánsdóttir
+  91 | Geir Geirsson
+  93 | Björgvin Geirsson
+  94 | Hulda Sunnevudóttir
+  95 | Benedikt Geirsson
+  97 | Geir Benediktsson
+ 100 | Helga Kristjánsdóttir
+ 101 | Gunnar Friðgeirsson
+ 103 | Rúnar Gunnarsson
+ 106 | Elva Jónudóttir
+ 107 | Ármann Kristjánsson
+ 109 | Rúnar Friðgeirsson
+ 110 | Ása Rúnarsdóttir
+ 113 | Ármann Ásuson
+ 114 | Lovísa Rúnarsdóttir
+ 116 | Angela Friðgeirsdóttir
+ 120 | Jóna Björnsdóttir
+ 121 | Geir Benediktsson
+ 122 | Sunneva Benediktsdóttir
+ 124 | Eva Gunnarsdóttir
+ 125 | Geir Björnsson
+ 128 | Helga Björgvinsdóttir
+ 129 | Gunnar Ármannsson
+ 130 | Eva Björgvinsdóttir
+ 131 | Friðgeir Jónuson
+ 132 | Elva Jónsdóttir
+ 133 | Björgvin Ármannsson
+ 134 | Jóna Jónsdóttir
+ 137 | Rúnar Björnsson
+ 138 | Jóna Ármannsdóttir
+ 140 | Lovísa Ármannsdóttir
+ 142 | Sunneva Angeludóttir
+ 143 | Benedikt Jónuson
+ 144 | Hulda Jónsdóttir
+ 147 | Benedikt Friðgeirsson
+ 150 | Elva Björgvinsdóttir
+ 151 | Gunnar Jónsson
+ 152 | Angela Rúnarsdóttir
+ 153 | Björn Friðgeirsson
+ 154 | Ása Björnsdóttir
+ 155 | Ármann Kristjánsson
+ 156 | Ása Geirsdóttir
+ 157 | Kristján Ármannsson
+ 158 | Hulda Björgvinsdóttir
+ 160 | Elva Geirsdóttir
+ 164 | Angela Björnsdóttir
+ 169 | Benedikt Friðgeirsson
+ 170 | Helga Björgvinsdóttir
+ 172 | Angela Jónsdóttir
+ 173 | Ármann Kristjánsson
+ 177 | Geir Ármannsson
+ 178 | Sunneva Friðgeirsdóttir
+ 183 | Björn Ármannsson
+ 184 | Eva Kristjánsdóttir
+ 185 | Friðgeir Rúnarsson
+ 188 | Gréta Grétudóttir
+ 189 | Friðgeir Lovísuson
+ 190 | Eva Grétudóttir
+ 192 | Jóna Geirsdóttir
+ 193 | Geir Ármannsson
+ 197 | Kristján Benediktsson
+ 201 | Geir Jónsson
+ 203 | Geir Friðgeirsson
+ 207 | Kristján Ármannsson
+ 209 | Rúnar Gunnarsson
+ 214 | Eva Geirsdóttir
+ 216 | Gréta Gunnarsdóttir
+ 217 | Jón Ármannsson
+ 225 | Ármann Geirsson
+ 228 | Elva Geirsdóttir
+ 232 | Sunneva Benediktsdóttir
+ 234 | Ása Ármannsdóttir
+ 241 | Friðgeir Björnsson
+ 249 | Kristján Ármannsson
+ 252 | Helga Ármannsdóttir
+(145 rows)
+
+ query 
+-------
+     4
+(1 row)
+
+ id  |     name      
+-----+---------------
+ 119 | Geir Geirsson
+(1 row)
+
+ query 
+-------
+     5
+(1 row)
+
+ id |    name     | maxres 
+----+-------------+--------
+  6 | Discus      |  25.20
+  2 | Triple Jump |  13.15
+  4 | Pole Vault  |   5.52
+  1 | Long Jump   |   6.78
+  0 | High Jump   |   2.11
+  3 | Shot Put    |  16.66
+  5 | Javelin     |  60.46
+(7 rows)
+
+ query 
+-------
+     6
+(1 row)
+
+ id  |        name        | count 
+-----+--------------------+-------
+  25 | Geir Jónsson       |    22
+ 126 | Gréta Björnsdóttir |     2
+  17 | Rúnar Björnsson    |     3
+   2 | Eva Rúnarsdóttir   |     2
+(4 rows)
+
+ query 
+-------
+     7
+(1 row)
+
+ id  |          name          | height | result |    name     | record 
+-----+------------------------+--------+--------+-------------+--------
+  18 | Gréta Benediktsdóttir  |   1.74 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   5.52 | Pole Vault  | yes
+  16 | Ása Lovísudóttir       |   1.79 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   5.52 | Pole Vault  | yes
+ 196 | Sunneva Rúnarsdóttir   |   1.68 |  13.15 | Triple Jump | yes
+ 126 | Gréta Björnsdóttir     |   1.78 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |  16.66 | Shot Put    | yes
+   0 | Gréta Geirsdóttir      |   1.74 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   2.11 | High Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |  13.15 | Triple Jump | yes
+  25 | Geir Jónsson           |   1.85 |  16.66 | Shot Put    | yes
+  25 | Geir Jónsson           |   1.85 |   5.52 | Pole Vault  | yes
+  25 | Geir Jónsson           |   1.85 |  60.46 | Javelin     | yes
+ 221 | Benedikt Ármannsson    |   1.73 |   25.2 | Discus      | no
+ 119 | Geir Geirsson          |   1.89 |   6.78 | Long Jump   | yes
+   2 | Eva Rúnarsdóttir       |   1.68 |   2.11 | High Jump   | yes
+   1 | Jón Björgvinsson       |   1.83 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   6.78 | Long Jump   | yes
+ 126 | Gréta Björnsdóttir     |   1.78 |   6.78 | Long Jump   | yes
+ 154 | Ása Björnsdóttir       |   1.67 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   5.52 | Pole Vault  | yes
+  25 | Geir Jónsson           |   1.85 |  16.66 | Shot Put    | yes
+  64 | Hulda Jónsdóttir       |   1.65 |  13.15 | Triple Jump | yes
+  17 | Rúnar Björnsson        |   1.86 |   6.78 | Long Jump   | yes
+  11 | Friðgeir Kristjánsson  |   1.84 |   2.11 | High Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   5.52 | Pole Vault  | yes
+  85 | Friðgeir Ármannsson    |   1.75 |   6.78 | Long Jump   | yes
+ 106 | Elva Jónudóttir        |   1.66 |   6.78 | Long Jump   | yes
+ 164 | Angela Björnsdóttir    |   1.72 |   2.11 | High Jump   | yes
+ 169 | Benedikt Friðgeirsson  |   1.73 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |  16.66 | Shot Put    | yes
+  67 | Geir Kristjánsson      |   1.87 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   2.11 | High Jump   | yes
+  41 | Gunnar Geirsson        |   1.81 |   6.78 | Long Jump   | yes
+  98 | Hulda Friðgeirsdóttir  |   1.73 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |  13.15 | Triple Jump | yes
+  80 | Jóna Friðgeirsdóttir   |   1.63 |   6.78 | Long Jump   | yes
+  29 | Rúnar Benediktsson     |   1.88 |   2.11 | High Jump   | yes
+ 182 | Gréta Lovísudóttir     |   1.73 |   6.78 | Long Jump   | yes
+   3 | Benedikt Evuson        |   1.83 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |  13.15 | Triple Jump | yes
+  19 | Björn Kristjánsson     |   1.77 |   6.78 | Long Jump   | yes
+ 166 | Hulda Elvudóttir       |   1.67 |   6.78 | Long Jump   | yes
+ 103 | Rúnar Gunnarsson       |   1.89 |   2.11 | High Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   6.78 | Long Jump   | yes
+ 128 | Helga Björgvinsdóttir  |   1.68 |   6.78 | Long Jump   | yes
+  24 | Elva Kristjánsdóttir   |   1.61 |   2.11 | High Jump   | yes
+ 225 | Ármann Geirsson        |   1.87 |   2.11 | High Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   6.78 | Long Jump   | yes
+  17 | Rúnar Björnsson        |   1.86 |   6.78 | Long Jump   | yes
+   2 | Eva Rúnarsdóttir       |   1.68 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |   2.11 | High Jump   | yes
+ 116 | Angela Friðgeirsdóttir |   1.71 |   6.78 | Long Jump   | yes
+  25 | Geir Jónsson           |   1.85 |  13.15 | Triple Jump | yes
+  53 | Gunnar Angeluson       |   1.79 |   6.78 | Long Jump   | yes
+  17 | Rúnar Björnsson        |   1.86 |   5.52 | Pole Vault  | yes
+  25 | Geir Jónsson           |   1.85 |   2.11 | High Jump   | yes
+ 150 | Elva Björgvinsdóttir   |   1.63 |   6.78 | Long Jump   | yes
+(59 rows)
+
+ query 
+-------
+     8
+(1 row)
+
+ count 
+-------
+   202
+(1 row)
+
+ querry 
+--------
+      9
+(1 row)
+
+ id | name | gender | height 
+----+------+--------+--------
+(0 rows)
+
+ querry 
+--------
+     10
+(1 row)
+
+ id |    name     | record | min  
+----+-------------+--------+------
+  0 | High Jump   |   2.11 | 1.06
+  1 | Long Jump   |   6.78 | 3.39
+  2 | Triple Jump |  13.15 | 6.58
+  3 | Shot Put    |  16.66 | 8.33
+  4 | Pole Vault  |   5.52 | 2.76
+(5 rows)
+
