@@ -1,12 +1,12 @@
 
-
+SELECT 1 as Query;
 CREATE TEMPORARY VIEW AllAccountRecords AS
 SELECT a.*, ar.rid, ar.rdate, ar.rtype, ar.ramount, ar.rbalance
 FROM accounts a
 LEFT JOIN accountrecords AS ar ON ar.aid = a.aid;
 
 
-
+SELECT 2 as Query;
 CREATE TEMPORARY VIEW DebtorStatus AS
 SELECT DISTINCT p.pid, p.pname, (SELECT SUM(abalance) FROM accounts WHERE pid = p.pid)   
 FROM people p
@@ -14,7 +14,7 @@ INNER JOIN accounts AS a ON p.pid = a.pid
 WHERE a.abalance < 0
 ORDER BY p.pid;
 
-
+SELECT 3 as Query;
 CREATE TEMPORARY VIEW FinancialStatus AS
 SELECT DISTINCT p.pid, p.pname, 
                 (SELECT SUM(abalance) FROM accounts WHERE  pid = p.pid) AS TotalSavings,
@@ -26,7 +26,7 @@ ORDER BY p.pid;
 SELECT * FROM FinancialStatus;
 
 
-
+SELECT 4 as Query;
 CREATE OR REPLACE FUNCTION  Billchecker () RETURNS TRIGGER AS $Billchecker$
 BEGIN
 IF(new.bamount < 0) THEN RAISE EXCEPTION 
@@ -63,7 +63,7 @@ EXECUTE PROCEDURE Billchecker();
 
 
 
-
+SELECT 5 as Query;
 CREATE OR REPLACE FUNCTION CheckStatus() RETURNS TRIGGER AS $CheckStatus$
 BEGIN
 	
@@ -104,19 +104,3 @@ END;
 CREATE TRIGGER CheckAccountRecords BEFORE INSERT OR UPDATE OR DELETE ON AccountRecords
 FOR EACH ROW
 EXECUTE PROCEDURE CheckStatus();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
