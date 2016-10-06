@@ -65,6 +65,39 @@ EXECUTE PROCEDURE Billchecker();
 
 
 
+CREATE OR REPLACE FUNCTION CheckStatus() RETURNS TRIGGER AS $CheckStatus$
+BEGIN
+	
+IF (-NEW.rAmount > (SELECT aBalance + aOver 
+			FROM Accounts A
+			WHERE A.AID = NEW.AID))
+THEN 
+RAISE EXCEPTION 'TRANSACTION DENIED' 
+USING ERRCODE = '45000';
+END if ; 
+
+Update Accounts 
+SET aBalance = aBalance + NEW.rAmount
+WHERE AID = NEW.AID;
+NEW.rBalance := (SELECT aBalance
+		 FROM Accounts A
+		 WHERE A.AID = NEW.AID);
+RETURN NEW;
+END;
+ $CheckStatus$ LANGUAGE plpgsql;
+
+CREATE TRIGGER CheckAccountRecords  BEFORE INSERT ON AccountRecords
+FOR EACH ROW
+EXECUTE PROCEDURE CheckStatus();
+
+
+
+
+
+
+
+
+
 
 
 
