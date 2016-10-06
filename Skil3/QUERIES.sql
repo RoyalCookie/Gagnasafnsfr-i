@@ -104,3 +104,22 @@ END;
 CREATE TRIGGER CheckAccountRecords BEFORE INSERT OR UPDATE OR DELETE ON AccountRecords
 FOR EACH ROW
 EXECUTE PROCEDURE CheckStatus();
+
+SELECT 6 as Query;
+CREATE OR REPLACE FUNCTION UpdatePeople() RETURNS TRIGGER AS $UpdatePeople$
+BEGIN
+	IF (NEW.pGender  <> 'M' AND NEW.pGender  <> 'F') THEN
+	RAISE EXCEPTION 'Gender needs to be M for male or F for female' USING ERRCODE = '45000';
+	else if (NEW.pHeight <= 0) THEN
+	RAISE EXCEPTION 'Hight cant be less or equal to 0' USING ERRCODE = '45001';
+	END if ;
+	END if;
+	INSERT INTO Accounts(PID, aOver)
+	Values(NEW.PID, 10000);
+	RETURN NEW;
+ END;
+ $UpdatePeople$ LANGUAGE plpgsql;
+
+CREATE TRIGGER NewPerson AFTER INSERT ON People
+FOR EACH ROW
+EXECUTE PROCEDURE UpdatePeople();
