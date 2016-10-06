@@ -123,3 +123,24 @@ BEGIN
 CREATE TRIGGER NewPerson AFTER INSERT ON People
 FOR EACH ROW
 EXECUTE PROCEDURE UpdatePeople();
+
+
+SELECT 9 as Query;
+CREATE OR REPLACE FUNCTION Transfer(IN iToAID INT, IN iFromAID INT, IN iAmount INT) 
+RETURNS VOID AS $$
+BEGIN
+INSERT INTO AccountRecords(rBalance,rDate)
+SELECT *
+FROM Accounts
+WHERE AID = iToAID;
+Values(rBalance + iAmount, current_date);
+
+INSERT INTO AccountRecords(rBalance,rDate)
+SELECT *
+FROM Accounts
+WHERE RID = iFromAID;
+Values(rBalance - iAmount, current_date);
+END;
+$$ LANGUAGE plpgsql
+
+
