@@ -144,25 +144,6 @@ END;
 $$ LANGUAGE plpgsql
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 SELECT 10 as Query;
 
 CREATE OR REPLACE FUNCTION LoanMoney(IN iAID INT, IN iAmount INT, IN iDueDate DATE, 
