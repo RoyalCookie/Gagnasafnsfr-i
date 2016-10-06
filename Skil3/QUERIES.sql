@@ -144,3 +144,45 @@ END;
 $$ LANGUAGE plpgsql
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT 10 as Query;
+
+CREATE OR REPLACE FUNCTION LoanMoney(IN iAID INT, IN iAmount INT, IN iDueDate DATE, 
+OUT billID INT, OUT billPID INT) AS $$
+DECLARE Tempo INT;
+BEGIN
+	IF NOT EXISTS (SELECT AID FROM Accounts WHERE AID = iAID) THEN
+	RAISE EXCEPTION 'THE ID DOES NOT EXSIT' USING ERRCODE = '45000';
+END IF; 
+UPDATE Accounts SET aOver = aOver + iAmount, aDate = current_date WHERE AID = iAID;
+billPID := (SELECT PID FROM Accounts WHERE AID = iAID);
+	
+billID := 1 + (SELECT COALESCE(MAX(BID), 1) FROM Bills);
+	  INSERT INTO Bills(BID, PID, bDueDate, bAmount, bIsPaid)
+	  VALUES(billID, BillPID, lDueDate, iAmount, 0::bit(1) ); 
+Tempo := ((SELECT rBalance FROM AccountRecords WHERE 
+					       RID = (SELECT MAX(RID) FROM AccountRecords WHERE AID = iAID)) + iAmount);
+	 
+	INSERT INTO AccountRecords(AID, rDate, rType, rAmount, rBalance)
+	VALUES(iAID, current_date, 'O', iAmount, Tempo); 
+END;
+$$ LANGUAGE plpgsql;
+
