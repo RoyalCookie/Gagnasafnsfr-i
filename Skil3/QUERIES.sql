@@ -36,14 +36,14 @@ ELSE IF (new.bduedate <= CURRENT_DATE) THEN RAISE EXCEPTION
 				       'Date is past current date'
 					USING ERRCODE = '45002';
 ELSE IF(TG_OP = 'DELETE')THEN RAISE EXCEPTION 
-		     'NOT ALLOUD TO DELET'
+		     'NOT ALLOWED TO DELETE'
 		      USING ERRCODE = '45003';
 ELSE IF(TG_OP = 'UPDATE')THEN 
 			IF
 			(new.bid <> old.bid OR new.bduedate <> old.bduedate OR new.bamount <> old.bamount)	
 			THEN
 			RAISE EXCEPTION 
-			'NOT alloud to Update accept bispaid '
+			'Not allowed to Update accept bispaid'
 			USING ERRCODE = '45004';
 			END if;
 		      
@@ -59,7 +59,6 @@ $Billchecker$ LANGUAGE plpgsql;
 CREATE TRIGGER CheckBills BEFORE INSERT OR UPDATE OR DELETE ON Bills
 FOR EACH ROW
 EXECUTE PROCEDURE Billchecker();
-
 
 
 
