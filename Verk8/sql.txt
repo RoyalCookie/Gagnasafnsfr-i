@@ -1,0 +1,52 @@
+CREATE TABLE players (
+   ID INT,
+   name VARCHAR(50),
+   gender CHAR(1),
+   salary FLOAT,
+   biography VARCHAR(50),
+   playsFor VARCHAR(50),
+   PRIMARY KEY (ID),
+   FOREIGN KEY (playsFor) REFERENCES teams (teamnick)
+);
+
+CREATE TABLE coaches (
+   ID INT,
+   name VARCHAR(50),
+   degree VARCHAR(50),
+   degreedate date,
+   PRIMARY KEY (ID),
+);
+
+CREATE TABLE coachesTeams(
+  team VARCHAR(50),
+  coach INT,
+  salary FLOAT,
+  FOREIGN KEY (team) REFERENCES teams (teamnick),
+  FOREIGN KEY (coach) REFERENCES coaches (ID)
+)
+
+CREATE TABLE teams (
+   teamnick VARCHAR(50),
+   genderofteam CHAR(1),
+   founded year,
+   divisionid int NOT NULL,
+   PRIMARY KEY (teamnick),
+   FOREIGN KEY (divisionid) REFERENCES divisions (divisionid)
+);
+
+CREATE TABLE divisions (
+   divisionid INT,
+   divisionname VARCHAR(50),
+   genderofteams CHAR(1),
+   sponsor VARCHAR(50),
+   PRIMARY KEY (divisionid,genderofteams)
+);
+
+CREATE TABLE matches (
+    homeTeam VARCHAR(50),
+    oponent VARCHAR(50),
+    venue VARCHAR(50),
+    dateHeld DATE,
+    timeHeld TIME,
+    score VARCHAR(30)
+)
