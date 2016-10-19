@@ -8,6 +8,15 @@ Janus Þór Kristjansson
 ***
 ***
 
+Introduction
+In this project we will be making an ER-Diagram 
+then from the Diagram we will make a postgresql database.
+The report will be Divided into three subjects and they are : 
+not clearly specified cases, Design decisions converting ER-Diagram to tables and
+equirements which are not represented in either the ER-Diagram or the SQL code. 
+ 
+
+
 A) assumtions you have made taht you felt were not clearly specified
 
 B) Design decisions converting ER-Diagram to tables
