@@ -1,0 +1,16 @@
+This need to be in PDF
+And this needt so be the title
+Database Design for WASP
+Tómas Helgi Stefánsson
+tomass09@ru.is
+2908892359
+Janus Þór Kristjansson
+***
+***
+
+A) assumtions you have made taht you felt were not clearly specified
+
+B) Design decisions converting ER-Diagram to tables
+
+C) Enumerates all requirements which are not represented in either the ER-Diagram or the SQL code.
+
