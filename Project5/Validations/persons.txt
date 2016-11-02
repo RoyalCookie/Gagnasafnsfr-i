@@ -1,0 +1,8 @@
+persons
+id did
+id ssn
+id z
+z t
+did dn
+ssn pn
+quit

@@ -1,0 +1,107 @@
+
+DROP DATABASE skil4;
+CREATE DATABASE skil4;
+\c skil4
+
+CREATE TABLE PEOPLE (
+  Id SERIAL,
+  name VARCHAR(50),
+  phoneNr varchar(24) ,
+  address varchar(100) ,
+  dateOfBirth DATE,
+  dateOfDeath DATE,
+  PRIMARY KEY(Id)
+);
+
+
+CREATE TABLE ENEMY(
+  peopleId INTEGER NOT NULL REFERENCES PEOPLE(Id),
+  PRIMARY KEY(peopleId)
+);
+
+CREATE TABLE WEAKNESS(
+  enemy INTEGER NOT NULL REFERENCES ENEMY(peopleId),
+  name VARCHAR(50),
+  description VARCHAR(250) ,
+  usage VARCHAR(250)
+);
+
+CREATE TABLE WASP(
+  peopleId INTEGER NOT NULL REFERENCES PEOPLE(Id),
+  startDate DATE,
+  PRIMARY KEY(peopleId)
+);
+
+CREATE TABLE children(
+  name VARCHAR(50),
+  phoneNr VARCHAR(24),
+  dateOfBirth DATE,
+  rating INTEGER,
+  parent INTEGER NOT NULL,
+  FOREIGN KEY (parent) REFERENCES WASP(peopleId)
+);
+
+CREATE TABLE ROLES(
+  name VARCHAR(50),
+  salary INTEGER,
+  PRIMARY KEY (name)
+);
+
+CREATE TABLE ROLE(
+  Id INTEGER NOT NULL,
+  role VARCHAR(50) NOT NULL,
+  personId INTEGER NOT NULL,
+  startDate DATE,
+  endDate DATE,
+  FOREIGN KEY (role) REFERENCES ROLES(name),
+  FOREIGN KEY (personId) REFERENCES WASP(peopleId),
+  PRIMARY KEY (Id)
+);
+
+CREATE TABLE SPONSOR(
+  Id INTEGER,
+  name VARCHAR(50),
+  industry VARCHAR(50),
+  address VARCHAR(100),
+  PRIMARY KEY (Id)
+);
+
+CREATE TABLE SPONSORSHIP(
+  Id INTEGER NOT NULL,
+  sponsorshipDate DATE,
+  payment INTEGER,
+  peopleId INTEGER NOT NULL,
+  roleId INTEGER NOT NULL,
+  FOREIGN KEY (peopleId) REFERENCES WASP(peopleId),
+  FOREIGN KEY (roleId) REFERENCES ROLE(Id),
+  PRIMARY KEY (Id)
+);
+
+
+CREATE TABLE REVIEW(
+  reviewDate DATE,
+  grade INTEGER,
+  sponsorshipId INTEGER,
+  reviewerId INTEGER,
+  PRIMARY KEY (sponsorshipId, reviewerId),
+  FOREIGN KEY (sponsorshipId) REFERENCES SPONSORSHIP(Id),
+  FOREIGN KEY (reviewerId) REFERENCES WASP(peopleId)
+);
+
+
+
+CREATE TABLE RELATIONSHIPS(
+  Id SERIAL,
+  name VARCHAR(50),
+  type VARCHAR(50),
+  description VARCHAR(150),
+  PRIMARY KEY (Id)
+);
+
+
+CREATE TABLE RELATIONSHIP(
+  relationshipId INTEGER NOT NULL,
+  personId INTEGER NOT NULL,
+  FOREIGN KEY (relationshipId) REFERENCES RELATIONSHIPS(Id),
+  FOREIGN KEY (personId) REFERENCES PEOPLE(Id)
+);

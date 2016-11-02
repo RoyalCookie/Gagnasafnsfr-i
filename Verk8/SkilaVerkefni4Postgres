@@ -1,0 +1,40 @@
+CREATE TABLE PEOPLE (
+  INTEGER Id,
+  VARCHAR(50) name,
+  varchar(24) phoneNr,
+  varchar(100) address,
+  DATE dateOfBirth,
+  DATE dateOfDeath,
+  PRIMARY KEY(Id)
+);
+
+CREATE TABLE WASP(
+  INTEGER peopleId NOT NULL REFERENCES PEOPLE(Id),
+  DATE startDate,
+  PRIMARY KEY(peopleId)
+);
+
+CREATE TABLE children(
+  VARCHAR(50) name,
+  VARCHAR(24) phoneNr,
+  DATE dateOfBirth,
+  INTEGER waspRating,
+  INTEGER parent,
+  FOREIGN KEY (parent) REFERENCES WASP(peopleId)
+);
+
+
+
+CREATE TABLE ROLES(
+  VARCHAR(50) name UNIQUE,
+  INTEGER salary,
+  PRIMARY KEY (name)
+);
+
+CREATE TABLE ROLE(
+  VARCHAR(50) role NOT NULL,
+  INTEGER personId NOT NULL,
+  FOREIGN KEY (role) REFERENCES ROLES(name),
+  FOREIGN KEY (personId) REFERENCES WASP(peopleId)x
+
+)
